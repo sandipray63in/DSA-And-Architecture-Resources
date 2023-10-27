@@ -5,7 +5,7 @@ Before anything else, 2 suggestions -
 2) If there is some academic or industrial text reference and not able to understand most of the things in that text, try searching for notes relevant to that text.
 
 How to Learn any New Technology -      
-https://www.linkedin.com/posts/sandip-ray-1b5531b4_how-to-learn-a-new-itsoftware-related-technology-activity-6434621227041644544-FHzd?utm_source=share&utm_medium=member_ios  
+https://www.linkedin.com/posts/sandip-ray-1b5531b4_how-to-learn-a-new-itsoftware-related-technology-activity-6434621227041644544-FHzd?utm_source=share&utm_medium=member_ios          
 Some great DSA Resources -     
 https://www.amazon.in/Modern-Challenge-programmer-interesting-programming-ebook/dp/B07GYLLWVN/ref=mp_s_a_1_3?crid=AM7LJ9KESQWU&keywords=modern+c%23+challenge&qid=1698376715&sprefix=modern+c%23+challenge%2Caps%2C257&sr=8-3    
 https://www.amazon.in/gp/aw/d/B07SD76KLH/ref=tmm_kin_swatch_0?ie=UTF8&qid=1698376308&sr=8-3         
