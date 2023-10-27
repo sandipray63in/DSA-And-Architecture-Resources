@@ -11,7 +11,8 @@ Some great DSA Resources -
 https://www.amazon.in/Modern-Challenge-programmer-interesting-programming-ebook/dp/B07GYLLWVN/ref=mp_s_a_1_3?crid=AM7LJ9KESQWU&keywords=modern+c%23+challenge&qid=1698376715&sprefix=modern+c%23+challenge%2Caps%2C257&sr=8-3    
 https://www.amazon.in/gp/aw/d/B07SD76KLH/ref=tmm_kin_swatch_0?ie=UTF8&qid=1698376308&sr=8-3         
 https://www.amazon.in/Data-Structures-Algorithms-Made-Easy-ebook/dp/B08CMHNPSH/ref=mp_s_a_1_4?crid=1AN17OBJF10BG&keywords=data+structures+and+algorithms+made+easy+in+java&nsdOptOutParam=true&qid=1698376784&sprefix=algorithms+made+easy+in+java%2Caps%2C222&sr=8-4      https://www.designofapproxalgs.com/      
-https://www.amazon.in/Randomized-Algorithms-Rajeev-Motwani/dp/0521613906/ref=mp_s_a_1_3?crid=4O6MVQWI1TPH&keywords=randomized+algorithms&qid=1698376424&sprefix=randomi%2Caps%2C245&sr=8-3         
+https://www.amazon.in/Randomized-Algorithms-Rajeev-Motwani/dp/0521613906/ref=mp_s_a_1_3?crid=4O6MVQWI1TPH&keywords=randomized+algorithms&qid=1698376424&sprefix=randomi%2Caps%2C245&sr=8-3       
+https://nostarch.com/art-randomness      
 https://www.amazon.in/gp/aw/d/B098C4MKF5/ref=tmm_kin_swatch_0?ie=UTF8&qid=1698376485&sr=8-5        
 https://www.amazon.in/Algorithms-Data-Structures-Massive-Datasets/dp/1617298034/ref=mp_s_a_1_3?crid=32CY9AP8E7IJP&keywords=algorithms+and+data+structures+for+massive+datasets&qid=1698376584&sprefix=algorithms+and+data+structures+for+massive+%2Caps%2C223&sr=8-3       
 https://www.amazon.in/Probabilistic-Data-Structures-Algorithms-Applications/dp/3748190484/ref=mp_s_a_1_3?crid=1AD7631FNF8NP&keywords=probabilistic+data+structures&qid=1698376885&sprefix=probabilistic+data+structures%2Caps%2C215&sr=8-3       
@@ -38,9 +39,12 @@ https://www.packtpub.com/product/practical-model-driven-enterprise-architecture/
 https://www.linkedin.com/posts/sandip-ray-1b5531b4_text-to-uml-and-other-diagrams-as-code-activity-7020239747646189568-m5dg?utm_source=share&utm_medium=member_ios       
 https://www.packtpub.com/product/solutions-architects-handbook-second-edition/9781801816618       
 https://www.packtpub.com/product/the-machine-learning-solutions-architect-handbook/9781801072168        
-https://www.packtpub.com/product/iot-and-edge-computing-for-architects-second-edition/9781839214806       
+https://www.packtpub.com/product/iot-and-edge-computing-for-architects-second-edition/9781839214806             
+https://www.packtpub.com/product/embedded-systems-architecture-second-edition/9781803239545       
+https://www.packtpub.com/product/architecting-high-performance-embedded-systems/9781789955965     
+https://www.packtpub.com/product/hands-on-network-programming-with-c-and-net-core/9781789340761     
 https://www.packtpub.com/product/edge-computing-systems-with-kubernetes/9781800568594           
-https://www.packtpub.com/product/iot-edge-computing-with-microk8s/9781803230634         
+https://www.packtpub.com/product/iot-edge-computing-with-microk8s/9781803230634    
 https://www.packtpub.com/product/enterprise-devops-for-architects/9781801812153      
 https://www.packtpub.com/product/becoming-a-rockstar-sre/9781803239224       
 https://www.packtpub.com/product/policy-design-in-the-age-of-digital-adoption/9781801811743         
