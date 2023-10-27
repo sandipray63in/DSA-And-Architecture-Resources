@@ -43,6 +43,7 @@ https://www.packtpub.com/product/iot-and-edge-computing-for-architects-second-ed
 https://www.packtpub.com/product/embedded-systems-architecture-second-edition/9781803239545       
 https://www.packtpub.com/product/architecting-high-performance-embedded-systems/9781789955965     
 https://www.packtpub.com/product/hands-on-network-programming-with-c-and-net-core/9781789340761     
+https://www.udemy.com/user/kiran-nayak-2/   
 https://www.packtpub.com/product/edge-computing-systems-with-kubernetes/9781800568594           
 https://www.packtpub.com/product/iot-edge-computing-with-microk8s/9781803230634    
 https://www.packtpub.com/product/enterprise-devops-for-architects/9781801812153      
