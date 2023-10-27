@@ -4,6 +4,7 @@ Before anything else, 2 suggestions -
 1) If you are a poor guy just like me, you need not buy all the paid[$$$] resources & maybe for some paid resources, can go through the ToC{Table of Contents} & do some googling of the topics mentioned in the ToC or can go through the github page{if available} corresponding to the paid resource or both
 2) If there is some academic or industrial text reference and not able to understand most of the things in that text, try searching for notes relevant to that text.
 
+          
 How to Learn any New Technology -      
 https://www.linkedin.com/posts/sandip-ray-1b5531b4_how-to-learn-a-new-itsoftware-related-technology-activity-6434621227041644544-FHzd?utm_source=share&utm_medium=member_ios          
 Some great DSA Resources -     
