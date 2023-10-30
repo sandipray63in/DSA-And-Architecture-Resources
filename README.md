@@ -1,7 +1,7 @@
 # DSA-And-Architecture-Resources
 
 Before anything else, 2 suggestions -     
-1) If you are a poor guy just like me, you need not buy all the paid[$$$] resources & maybe for some paid resources, can go through the ToC{Table of Contents} & do some googling of the topics mentioned in the ToC or can go through the github page{if available} corresponding to the paid resource or can try both
+1) You need not buy all the paid[$$$] resources & maybe for some paid resources, can go through the ToC{Table of Contents} & do some googling of the topics mentioned in the ToC or can go through the github page{if available} corresponding to the paid resource or can try both
 2) If there is some academic or industrial text reference and not able to understand most of the things in that text, try searching for notes relevant to that text.
 
           
