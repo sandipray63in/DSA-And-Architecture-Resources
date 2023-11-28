@@ -87,6 +87,7 @@ https://kubernetes.io/docs/concepts/security/multi-tenancy/
 https://www.cncf.io/blog/2022/11/09/multi-tenancy-in-kubernetes-implementation-and-optimization/       
 https://www.manning.com/books/platform-engineering-on-kubernetes     
 https://www.coreweave.com/blog/serverless-kubernetes-what-it-is-and-how-it-works#:~:text=Serverless%20Kubernetes%20allows%20users%20to,application%20configurations%20(YAML%20tab)       
+https://www.techtarget.com/searchcloudcomputing/tip/Best-practices-for-a-multi-cloud-Kubernetes-strategy      
 https://www.qentelli.com/thought-leadership/insights/guide-service-virtualization-tools-use-cases-more      
 https://comparecloud.in      
 https://www.oauth.com/        
