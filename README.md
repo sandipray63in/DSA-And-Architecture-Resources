@@ -6,7 +6,7 @@ Before anything else, 2 suggestions -
 
           
 How to Learn any New Technology -      
-https://www.linkedin.com/posts/sandip-ray-1b5531b4_how-to-learn-a-new-itsoftware-related-technology-activity-6434621227041644544-FHzd?utm_source=share&utm_medium=member_ios          
+https://www.linkedin.com/posts/sandip-ray-1b5531b4_how-to-learn-a-new-itsoftware-related-technology-activity-6434621227041644544-FHzd?utm_source=share&utm_medium=member_ios                   
 Some great DSA Resources -     
 https://www.amazon.in/Modern-Challenge-programmer-interesting-programming-ebook/dp/B07GYLLWVN/ref=mp_s_a_1_3?crid=AM7LJ9KESQWU&keywords=modern+c%23+challenge&qid=1698376715&sprefix=modern+c%23+challenge%2Caps%2C257&sr=8-3    
 https://www.amazon.in/gp/aw/d/B07SD76KLH/ref=tmm_kin_swatch_0?ie=UTF8&qid=1698376308&sr=8-3         
@@ -21,6 +21,9 @@ https://www.geeksforgeeks.org/recursion-practice-problems-solutions/
 https://leetcode.com/discuss/general-discussion/458695/Dynamic-Programming-Patterns         
 https://algo.monster/problems/dynamic_programming_intro        
 https://ashutosh-kumar.medium.com/dynamic-programming-types-and-patterns-7b1406c46a6b         
+https://leetcode.com/problemset/all/     
+https://en.m.wikipedia.org/wiki/Combinatorial_optimization(check specific problems)  
+https://youtube.com/playlist?list=PLXsmhnDvpjORcTRFMVF3aUgyYlHsxfhNL&si=ZMbw32dgPudlYFdR       
        
 Software Architecture in General -     
 https://www.linkedin.com/posts/sandip-ray-1b5531b4_some-free-good-resources-for-developers-activity-7043874395898986496-bYFe?utm_source=share&utm_medium=member_ios   
@@ -39,17 +42,19 @@ https://www.packtpub.com/product/practical-model-driven-enterprise-architecture/
 https://www.linkedin.com/posts/sandip-ray-1b5531b4_text-to-uml-and-other-diagrams-as-code-activity-7020239747646189568-m5dg?utm_source=share&utm_medium=member_ios       
 https://www.packtpub.com/product/solutions-architects-handbook-second-edition/9781801816618       
 https://www.packtpub.com/product/the-machine-learning-solutions-architect-handbook/9781801072168        
-https://www.packtpub.com/product/iot-and-edge-computing-for-architects-second-edition/9781839214806             
+https://www.packtpub.com/product/iot-and-edge-computing-for-architects-second-edition/9781839214806         
+https://www.packtpub.com/product/architectural-patterns-and-techniques-for-developing-iot-solutions/9781803245492    
 https://www.packtpub.com/product/embedded-systems-architecture-second-edition/9781803239545       
 https://www.packtpub.com/product/architecting-high-performance-embedded-systems/9781789955965     
 https://www.packtpub.com/product/hands-on-network-programming-with-c-and-net-core/9781789340761     
 https://www.udemy.com/user/kiran-nayak-2/   
 https://www.packtpub.com/product/edge-computing-systems-with-kubernetes/9781800568594           
 https://www.packtpub.com/product/iot-edge-computing-with-microk8s/9781803230634    
-https://www.packtpub.com/product/enterprise-devops-for-architects/9781801812153      
+https://www.packtpub.com/product/enterprise-devops-for-architects/9781801812153     
 https://www.packtpub.com/product/becoming-a-rockstar-sre/9781803239224       
 https://www.packtpub.com/product/policy-design-in-the-age-of-digital-adoption/9781801811743         
-https://www.linkedin.com/posts/sandip-ray-1b5531b4_some-good-katas-resources-awesome-coding-activity-7109446174981443586-ds-_?utm_source=share&utm_medium=member       https://awesomedataengineering.com    
+https://www.linkedin.com/posts/sandip-ray-1b5531b4_some-good-katas-resources-awesome-coding-activity-7109446174981443586-ds-_?utm_source=share&utm_medium=member       https://awesomedataengineering.com   
+https://www.jamesserra.com/archive/2023/11/all-the-chapters-in-my-data-architecture-book-are-now-available/       
 https://www.kdnuggets.com/2023/02/learn-data-engineering-github-repositories.html        
 https://www.oreilly.com/library/view/fundamentals-of-data/9781098108298/       
 https://www.linkedin.com/posts/rocky-bhatia-a4801010_%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F-%3F-%3F%3F%3F%3F%3F%3F%3F-activity-7117111531539984384-nUM4?trk=public_profile_like_view       
@@ -61,7 +66,8 @@ https://www.packtpub.com/product/azure-data-and-ai-architect-handbook/9781803234
 https://www.amazon.in/gp/aw/d/B08PJMV9BZ/ref=tmm_kin_swatch_0?ie=UTF8&qid=&sr=    
 https://www.zachwilson.tech              
 https://cloudblogs.microsoft.com/opensource/2018/03/26/new-oreilly-e-book-on-designing-distributed-systems-available-for-free-download/       
-https://www.educative.io/blog/complete-guide-system-design-interview?aff=xmg1       
+https://www.educative.io/blog/complete-guide-system-design-interview?aff=xmg1  
+https://github.com/ashishps1/awesome-system-design-resources      
 https://www.amazon.in/gp/aw/d/B0BBY5G9QS/ref=ox_sc_act_image_3?smid=A1S46CEHK621UY&psc=1        
 https://understandingdistributed.systems       
 https://aosabook.org/en/index.html        
@@ -79,9 +85,19 @@ https://www.oreilly.com/search/?q=beautiful&type=*&rows=10&publishers=O%27Reilly
 https://prashanthpanduranga.wordpress.com/2015/03/25/inevitability-of-multi-tenancy-saas-in-product-engineering/     
 https://kubernetes.io/docs/concepts/security/multi-tenancy/        
 https://www.cncf.io/blog/2022/11/09/multi-tenancy-in-kubernetes-implementation-and-optimization/       
+https://www.manning.com/books/platform-engineering-on-kubernetes     
+https://www.coreweave.com/blog/serverless-kubernetes-what-it-is-and-how-it-works#:~:text=Serverless%20Kubernetes%20allows%20users%20to,application%20configurations%20(YAML%20tab)       
+https://www.qentelli.com/thought-leadership/insights/guide-service-virtualization-tools-use-cases-more      
 https://comparecloud.in      
 https://www.oauth.com/        
 https://oauth.net/2/  
+http://identitymeme.org/doc/draft-hodges-learning-saml-00.html        
 https://www.amazon.in/gp/product/B09781JQR3/eref=dbs_a_def_awm_bibl_vppi_i0    
 https://www.amazon.in/gp/product/B082WRYJJM/ref=dbs_a_def_awm_bibl_vppi_i1  
+https://portswigger.net/web-security/all-materials/detailed      
+https://portswigger.net/burp/documentation/scanner/vulnerabilities-list       
 https://www.linkedin.com/pulse/zero-trust-security-cautious-move-balaji-ramarajan?trk=article-ssr-frontend-pulse_more-articles_related-content-card     
+https://www.linkedin.com/pulse/point-view-devsecops-sre-key-asks-considerations-balaji-ramarajan-rbb8c?utm_source=share&utm_medium=member_ios&utm_campaign=share_via       
+https://interviewready.io/blog/white-papers-worth-reading-for-software-engineers      
+
+Disclaimer - I have not read e2e of all the resources(especially the paid ones)      
