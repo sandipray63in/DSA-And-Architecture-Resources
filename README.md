@@ -22,7 +22,7 @@ https://leetcode.com/discuss/general-discussion/458695/Dynamic-Programming-Patte
 https://algo.monster/problems/dynamic_programming_intro        
 https://ashutosh-kumar.medium.com/dynamic-programming-types-and-patterns-7b1406c46a6b         
 https://leetcode.com/problemset/all/     
-https://en.m.wikipedia.org/wiki/Combinatorial_optimization(check specific problems)    
+https://en.m.wikipedia.org/wiki/Combinatorial_optimization (check specific problems)    
      
 Software Architecture in General -     
 https://www.linkedin.com/posts/sandip-ray-1b5531b4_some-free-good-resources-for-developers-activity-7043874395898986496-bYFe?utm_source=share&utm_medium=member_ios   
