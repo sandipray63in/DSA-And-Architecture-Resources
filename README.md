@@ -100,4 +100,4 @@ https://www.linkedin.com/pulse/zero-trust-security-cautious-move-balaji-ramaraja
 https://www.linkedin.com/pulse/point-view-devsecops-sre-key-asks-considerations-balaji-ramarajan-rbb8c?utm_source=share&utm_medium=member_ios&utm_campaign=share_via       
 https://interviewready.io/blog/white-papers-worth-reading-for-software-engineers      
 
-Disclaimer - I have not read e2e of all the resources(especially the paid ones)      
+Disclaimer - I have not read e2e of all the resources(especially the paid ones). For the paid ones, mainly checked the ToC, reviews & other articles where they have been referred as recommended resources.
