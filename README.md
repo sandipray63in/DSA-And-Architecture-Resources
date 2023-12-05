@@ -90,6 +90,7 @@ https://www.coreweave.com/blog/serverless-kubernetes-what-it-is-and-how-it-works
 https://www.techtarget.com/searchcloudcomputing/tip/Best-practices-for-a-multi-cloud-Kubernetes-strategy      
 https://www.qentelli.com/thought-leadership/insights/guide-service-virtualization-tools-use-cases-more      
 https://comparecloud.in      
+https://www.synopsys.com/software-integrity/training/software-security-courses/software-security-principles.html (can check for other security trainings from Synopsys as well)      
 https://www.oauth.com/        
 https://oauth.net/2/  
 http://identitymeme.org/doc/draft-hodges-learning-saml-00.html        
@@ -102,5 +103,7 @@ https://portswigger.net/burp/documentation/scanner/vulnerabilities-list
 https://www.linkedin.com/pulse/zero-trust-security-cautious-move-balaji-ramarajan?trk=article-ssr-frontend-pulse_more-articles_related-content-card     
 https://www.linkedin.com/pulse/point-view-devsecops-sre-key-asks-considerations-balaji-ramarajan-rbb8c?utm_source=share&utm_medium=member_ios&utm_campaign=share_via       
 https://interviewready.io/blog/white-papers-worth-reading-for-software-engineers      
+https://github.com/quozd/awesome-dotnet   
+
 
 Disclaimer - I have not read e2e of all the resources(especially the paid ones). For the paid ones, mainly checked the ToC, reviews & other articles where they have been referred as recommended resources.
