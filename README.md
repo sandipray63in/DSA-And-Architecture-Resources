@@ -95,6 +95,8 @@ https://oauth.net/2/
 http://identitymeme.org/doc/draft-hodges-learning-saml-00.html        
 https://www.amazon.in/gp/product/B09781JQR3/eref=dbs_a_def_awm_bibl_vppi_i0    
 https://www.amazon.in/gp/product/B082WRYJJM/ref=dbs_a_def_awm_bibl_vppi_i1  
+https://cheatsheetseries.owasp.org/     
+https://0xn3va.gitbook.io/cheat-sheets/container/escaping/cve-list    
 https://portswigger.net/web-security/all-materials/detailed      
 https://portswigger.net/burp/documentation/scanner/vulnerabilities-list       
 https://www.linkedin.com/pulse/zero-trust-security-cautious-move-balaji-ramarajan?trk=article-ssr-frontend-pulse_more-articles_related-content-card     
