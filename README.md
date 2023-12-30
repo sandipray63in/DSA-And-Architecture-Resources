@@ -31,8 +31,7 @@ https://www.linkedin.com/posts/sandip-ray-1b5531b4_patterns-literature-1-gofgang
 https://www.amazon.in/Software-Engineering-SPPU-19-Course/dp/9390450411/ref=mp_s_a_1_4?crid=14XXENK15LVM0&keywords=software+engineering+sppu&qid=1695777546&sprefix=software+engineering+sppu%2Caps%2C211&sr=8-4  
 https://awesome-architecture.com/      
 https://mailchi.mp/deararchitects/154-dear-architects         
-https://pragprog.com/titles/mkdsa/design-it/        
-https://pragprog.com/titles/mnee2/release-it-second-edition/          
+https://pragprog.com/titles/mkdsa/design-it/                
 https://www.udemy.com/course/developer-to-architect/       
 https://www.linkedin.com/posts/deo-shankar_i-am-getting-a-lot-of-requests-for-help-in-activity-7122111010169094144-6XP8?utm_source=share&utm_medium=member_ios   
 https://www.synopsys.com/blogs/software-security/software-bill-of-materials-bom.html     
@@ -49,8 +48,7 @@ https://www.packtpub.com/product/hands-on-network-programming-with-c-and-net-cor
 https://www.udemy.com/user/kiran-nayak-2/   
 https://www.packtpub.com/product/edge-computing-systems-with-kubernetes/9781800568594           
 https://www.packtpub.com/product/iot-edge-computing-with-microk8s/9781803230634    
-https://www.packtpub.com/product/enterprise-devops-for-architects/9781801812153     
-https://www.packtpub.com/product/becoming-a-rockstar-sre/9781803239224       
+https://www.packtpub.com/product/enterprise-devops-for-architects/9781801812153       
 https://www.packtpub.com/product/policy-design-in-the-age-of-digital-adoption/9781801811743         
 https://www.linkedin.com/posts/sandip-ray-1b5531b4_some-good-katas-resources-awesome-coding-activity-7109446174981443586-ds-_?utm_source=share&utm_medium=member       https://awesomedataengineering.com   
 https://www.jamesserra.com/archive/2023/11/all-the-chapters-in-my-data-architecture-book-are-now-available/       
