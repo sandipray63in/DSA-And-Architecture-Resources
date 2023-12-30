@@ -72,7 +72,7 @@ https://www.amazon.com/stores/Alex-Xu/author/B08BNMFT7P?ref=ap_rdr&store_ref=ap_
 https://www.amazon.com/Distributed-Systems-Concepts-Design-5th/dp/0132143011      
 https://www.amazon.in/gp/aw/d/B086V7Q2KW/ref=ox_sc_unknown_image_?smid=A3SI5I1JWQ14PC&psc=1       
 https://www.amazon.in/gp/aw/d/9381269238/ref=ox_sc_act_image_2?smid=A1GUOQ2UF3ML93&psc=1      
-https://muratbuffalo.blogspot.com/2023/10/hints-for-distributed-systems-design.html?m=1#:~:text=2.-,Reduce%20coordination,presence%20in%20the%20data%20path     
+https://muratbuffalo.blogspot.com/2023/10/hints-for-distributed-systems-design.html    
 https://www.amazon.in/gp/aw/d/8131708071/ref=ox_sc_act_image_1?smid=AJEL1QPE94YMX&psc=1       
 https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/     
 https://www.databass.dev     
@@ -84,7 +84,7 @@ https://kubernetes.io/docs/concepts/security/multi-tenancy/
 https://www.cncf.io/blog/2022/11/09/multi-tenancy-in-kubernetes-implementation-and-optimization/       
 https://www.manning.com/books/platform-engineering-on-kubernetes     
 https://developers.redhat.com/e-books/kubernetes-patterns#error=login_required&state=d5f9d549-fe5b-4fd1-8b52-99b3c81d69ff      
-https://www.coreweave.com/blog/serverless-kubernetes-what-it-is-and-how-it-works#:~:text=Serverless%20Kubernetes%20allows%20users%20to,application%20configurations%20(YAML%20tab)       
+https://www.coreweave.com/blog/serverless-kubernetes-what-it-is-and-how-it-works    
 https://www.techtarget.com/searchcloudcomputing/tip/Best-practices-for-a-multi-cloud-Kubernetes-strategy      
 https://www.qentelli.com/thought-leadership/insights/guide-service-virtualization-tools-use-cases-more      
 https://comparecloud.in      
