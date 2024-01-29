@@ -86,14 +86,15 @@ https://developers.redhat.com/e-books/kubernetes-patterns#error=login_required&s
 https://www.coreweave.com/blog/serverless-kubernetes-what-it-is-and-how-it-works    
 https://www.techtarget.com/searchcloudcomputing/tip/Best-practices-for-a-multi-cloud-Kubernetes-strategy      
 https://www.qentelli.com/thought-leadership/insights/guide-service-virtualization-tools-use-cases-more      
-https://comparecloud.in    
-https://www.enterprise-ai-book.com/      
-https://www.algorithmicmarketingbook.com/      
-https://www.amazon.in/Enterprise-GENERATIVE-Architected-Framework-Patterns-ebook/dp/B0CJ6J4F75     
-https://mlops-guide.github.io/       
-https://huyenchip.com/mlops/       
-https://www.packtpub.com/product/platform-and-model-design-for-responsible-ai/9781803237077 
-https://www.synopsys.com/software-integrity/training/software-security-courses/software-security-principles.html (can check for other security trainings from Synopsys as well)      
+https://comparecloud.in       
+https://www.enterprise-ai-book.com/         
+https://www.algorithmicmarketingbook.com/          
+https://www.amazon.in/Enterprise-GENERATIVE-Architected-Framework-Patterns-ebook/dp/B0CJ6J4F75        
+https://huyenchip.com/2023/10/10/multimodal.html       
+https://mlops-guide.github.io/            
+https://huyenchip.com/mlops/             
+https://www.packtpub.com/product/platform-and-model-design-for-responsible-ai/9781803237077          
+https://www.synopsys.com/software-integrity/training/software-security-courses/software-security-principles.html (can check for other security trainings from Synopsys as well)        
 https://www.oauth.com/        
 https://oauth.net/2/  
 http://identitymeme.org/doc/draft-hodges-learning-saml-00.html        
