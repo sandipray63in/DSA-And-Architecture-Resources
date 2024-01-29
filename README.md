@@ -38,8 +38,7 @@ https://www.synopsys.com/blogs/software-security/software-bill-of-materials-bom.
 https://en.m.wikipedia.org/wiki/Software_supply_chain       
 https://www.packtpub.com/product/practical-model-driven-enterprise-architecture/9781801076166         
 https://www.linkedin.com/posts/sandip-ray-1b5531b4_text-to-uml-and-other-diagrams-as-code-activity-7020239747646189568-m5dg?utm_source=share&utm_medium=member_ios       
-https://www.packtpub.com/product/solutions-architects-handbook-second-edition/9781801816618       
-https://www.packtpub.com/product/the-machine-learning-solutions-architect-handbook/9781801072168        
+https://www.packtpub.com/product/solutions-architects-handbook-second-edition/9781801816618               
 https://www.packtpub.com/product/iot-and-edge-computing-for-architects-second-edition/9781839214806         
 https://www.packtpub.com/product/architectural-patterns-and-techniques-for-developing-iot-solutions/9781803245492    
 https://www.packtpub.com/product/embedded-systems-architecture-second-edition/9781803239545       
@@ -87,7 +86,13 @@ https://developers.redhat.com/e-books/kubernetes-patterns#error=login_required&s
 https://www.coreweave.com/blog/serverless-kubernetes-what-it-is-and-how-it-works    
 https://www.techtarget.com/searchcloudcomputing/tip/Best-practices-for-a-multi-cloud-Kubernetes-strategy      
 https://www.qentelli.com/thought-leadership/insights/guide-service-virtualization-tools-use-cases-more      
-https://comparecloud.in      
+https://comparecloud.in    
+https://www.enterprise-ai-book.com/      
+https://www.algorithmicmarketingbook.com/      
+https://www.amazon.in/Enterprise-GENERATIVE-Architected-Framework-Patterns-ebook/dp/B0CJ6J4F75     
+https://mlops-guide.github.io/       
+https://huyenchip.com/mlops/       
+https://www.packtpub.com/product/platform-and-model-design-for-responsible-ai/9781803237077 
 https://www.synopsys.com/software-integrity/training/software-security-courses/software-security-principles.html (can check for other security trainings from Synopsys as well)      
 https://www.oauth.com/        
 https://oauth.net/2/  
