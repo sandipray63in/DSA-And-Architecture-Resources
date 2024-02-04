@@ -30,10 +30,8 @@ https://www.planetgeek.ch/tag/cheat-sheet/
 https://www.linkedin.com/posts/sandip-ray-1b5531b4_patterns-literature-1-gofgang-of-four-activity-6910568656636702720-Y1aw?utm_source=share&utm_medium=member_ios   
 https://www.amazon.in/Software-Engineering-SPPU-19-Course/dp/9390450411/ref=mp_s_a_1_4?crid=14XXENK15LVM0&keywords=software+engineering+sppu&qid=1695777546&sprefix=software+engineering+sppu%2Caps%2C211&sr=8-4  
 https://awesome-architecture.com/      
-https://mailchi.mp/deararchitects/154-dear-architects         
 https://pragprog.com/titles/mkdsa/design-it/                
 https://www.udemy.com/course/developer-to-architect/       
-https://www.linkedin.com/posts/deo-shankar_i-am-getting-a-lot-of-requests-for-help-in-activity-7122111010169094144-6XP8?utm_source=share&utm_medium=member_ios   
 https://www.synopsys.com/blogs/software-security/software-bill-of-materials-bom.html     
 https://en.m.wikipedia.org/wiki/Software_supply_chain       
 https://www.packtpub.com/product/practical-model-driven-enterprise-architecture/9781801076166         
