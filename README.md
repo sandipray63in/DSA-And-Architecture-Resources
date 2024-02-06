@@ -16,7 +16,7 @@ Some great DSA Resources -
 [Randomized Algorithms](https://www.amazon.in/Randomized-Algorithms-Rajeev-Motwani/dp/0521613906/ref=mp_s_a_1_3?crid=4O6MVQWI1TPH&keywords=randomized+algorithms&qid=1698376424&sprefix=randomi%2Caps%2C245&sr=8-3)       
 [Art of Randomness](https://nostarch.com/art-randomness)      
 [Advanced Algorithms And Data Structures](https://www.amazon.in/gp/aw/d/B098C4MKF5/ref=tmm_kin_swatch_0?ie=UTF8&qid=1698376485&sr=8-5)        
-[Algorithms Andf Data Structures for Massive Datasets](https://www.amazon.in/Algorithms-Data-Structures-Massive-Datasets/dp/1617298034/ref=mp_s_a_1_3?crid=32CY9AP8E7IJP&keywords=algorithms+and+data+structures+for+massive+datasets&qid=1698376584&sprefix=algorithms+and+data+structures+for+massive+%2Caps%2C223&sr=8-3)       
+[Algorithms And Data Structures for Massive Datasets](https://www.amazon.in/Algorithms-Data-Structures-Massive-Datasets/dp/1617298034/ref=mp_s_a_1_3?crid=32CY9AP8E7IJP&keywords=algorithms+and+data+structures+for+massive+datasets&qid=1698376584&sprefix=algorithms+and+data+structures+for+massive+%2Caps%2C223&sr=8-3)       
 [Probabilistic Data Structures and Algorithms for Big Data Applications](https://www.amazon.in/Probabilistic-Data-Structures-Algorithms-Applications/dp/3748190484/ref=mp_s_a_1_3?crid=1AD7631FNF8NP&keywords=probabilistic+data+structures&qid=1698376885&sprefix=probabilistic+data+structures%2Caps%2C215&sr=8-3)       
 [Leetcode List of questions sorted by common patterns.](https://leetcode.com/discuss/career/448285/List-of-questions-sorted-by-common-patterns)     
 [Recursive Practice Problems with Solutions](https://www.geeksforgeeks.org/recursion-practice-problems-solutions/)    
