@@ -98,7 +98,8 @@ Some Good Data Engineering Resources -
 [Database Internals](https://www.databass.dev)    
 [Making Sense of Streaming](https://martin.kleppmann.com/2016/05/24/making-sense-of-stream-processing.html)
 [Streaming Data Mesh](https://www.oreilly.com/library/view/streaming-data-mesh/9781098130718/)      
-[Grokking Streaming Systems](https://www.manning.com/books/grokking-streaming-systems)      
+[Grokking Streaming Systems](https://www.manning.com/books/grokking-streaming-systems)     
+[Hadoop EcoSystem Table](https://hadoopecosystemtable.github.io/)            
      
      
 Some Good DataScience/AI/ML/DL Resources -        
