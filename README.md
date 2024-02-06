@@ -7,10 +7,12 @@ Before anything else, 2 suggestions -
           
 How to Learn any New Technology -      
 https://www.linkedin.com/posts/sandip-ray-1b5531b4_how-to-learn-a-new-itsoftware-related-technology-activity-6434621227041644544-FHzd?utm_source=share&utm_medium=member_ios                   
+                
 Some great DSA Resources -     
 [Modern C# Challenge](https://www.amazon.in/Modern-Challenge-programmer-interesting-programming-ebook/dp/B07GYLLWVN/ref=mp_s_a_1_3?crid=AM7LJ9KESQWU&keywords=modern+c%23+challenge&qid=1698376715&sprefix=modern+c%23+challenge%2Caps%2C257&sr=8-3)    
 [Essential Algorithms](https://www.amazon.in/gp/aw/d/B07SD76KLH/ref=tmm_kin_swatch_0?ie=UTF8&qid=1698376308&sr=8-3)         
-[Data Structures And Algorithms Made Easy in Java](https://www.amazon.in/Data-Structures-Algorithms-Made-Easy-ebook/dp/B08CMHNPSH/ref=mp_s_a_1_4?crid=1AN17OBJF10BG&keywords=data+structures+and+algorithms+made+easy+in+java&nsdOptOutParam=true&qid=1698376784&sprefix=algorithms+made+easy+in+java%2Caps%2C222&sr=8-4)     [Design of Approximation Algorithms](https://www.designofapproxalgs.com/)      
+[Data Structures And Algorithms Made Easy in Java](https://www.amazon.in/Data-Structures-Algorithms-Made-Easy-ebook/dp/B08CMHNPSH/ref=mp_s_a_1_4?crid=1AN17OBJF10BG&keywords=data+structures+and+algorithms+made+easy+in+java&nsdOptOutParam=true&qid=1698376784&sprefix=algorithms+made+easy+in+java%2Caps%2C222&sr=8-4)     
+    [Design of Approximation Algorithms](https://www.designofapproxalgs.com/)      
 [Randomized Algorithms](https://www.amazon.in/Randomized-Algorithms-Rajeev-Motwani/dp/0521613906/ref=mp_s_a_1_3?crid=4O6MVQWI1TPH&keywords=randomized+algorithms&qid=1698376424&sprefix=randomi%2Caps%2C245&sr=8-3)       
 [Art of Randomness](https://nostarch.com/art-randomness)      
 [Advanced Algorithms And Data Structures](https://www.amazon.in/gp/aw/d/B098C4MKF5/ref=tmm_kin_swatch_0?ie=UTF8&qid=1698376485&sr=8-5)        
