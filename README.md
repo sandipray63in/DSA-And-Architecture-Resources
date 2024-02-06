@@ -112,7 +112,8 @@ Some Good DataScience/AI/ML/DL Resources -
 [Multi-Modal GenAI](https://huyenchip.com/2023/10/10/multimodal.html)       
 [MLOps Guide](https://mlops-guide.github.io/)            
 [Another great MLOps Guide](https://huyenchip.com/mlops/)             
-[Responsible AI](https://www.packtpub.com/product/platform-and-model-design-for-responsible-ai/9781803237077)            
+[Responsible AI](https://www.packtpub.com/product/platform-and-model-design-for-responsible-ai/9781803237077)      
+[Scientific ML](https://sciml.ai/)         
      
        
 Some Good IoT(Internet of Things) Resources -      
