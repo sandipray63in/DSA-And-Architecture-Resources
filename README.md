@@ -71,7 +71,8 @@ Some Good Software Architecture(& System Design & Software Engineering) Resource
 [Zero Trust Security](https://www.linkedin.com/pulse/zero-trust-security-cautious-move-balaji-ramarajan?trk=article-ssr-frontend-pulse_more-articles_related-content-card)   
 [Understanding Distributed Systems](https://understandingdistributed.systems)      
 [Designing Distributed Systems](https://cloudblogs.microsoft.com/opensource/2018/03/26/new-oreilly-e-book-on-designing-distributed-systems-available-for-free-download/)    
-     [System Design Interview Guide](https://www.educative.io/blog/complete-guide-system-design-interview?aff=xmg1)  
+     [System Design Interview Guide](https://www.educative.io/blog/complete-guide-system-design-interview?aff=xmg1)      
+[Awesome System Design](https://github.com/madd86/awesome-system-design)       
 [Awesome System Design Resources](https://github.com/ashishps1/awesome-system-design-resources)      
 [System Design at Google](https://www.amazon.in/gp/aw/d/B0BBY5G9QS/ref=ox_sc_act_image_3?smid=A1S46CEHK621UY&psc=1)        
 [Alex Xu's System Design Interviews Books](https://www.amazon.com/stores/Alex-Xu/author/B08BNMFT7P?ref=ap_rdr&store_ref=ap_rdr&isDramIntegrated=true&shoppingPortalEnabled=true)         
@@ -80,7 +81,6 @@ Some Good Software Architecture(& System Design & Software Engineering) Resource
 [Distributed and Cloud Computing: From Parallel Processing to the Internet of Things](https://www.amazon.in/gp/aw/d/9381269238/ref=ox_sc_act_image_2?smid=A1GUOQ2UF3ML93&psc=1)      
 [Distributed Systems Design Hints](https://muratbuffalo.blogspot.com/2023/10/hints-for-distributed-systems-design.html)    
 [Intro to Parallel Computing](https://www.amazon.in/gp/aw/d/8131708071/ref=ox_sc_act_image_1?smid=AJEL1QPE94YMX&psc=1)       
-[Awesome System Design](https://github.com/madd86/awesome-system-design)      
 [System Desin White Papers](https://interviewready.io/blog/white-papers-worth-reading-for-software-engineers)      
 
 
