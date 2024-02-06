@@ -128,4 +128,4 @@ Some Good IoT(Internet of Things) Resources -
      
 N.B. -> If anyone is interested in learning Finance at it's core, then one can refer [Khan Academy's Awesome Free Finance And Capital Markets Course](https://www.khanacademy.org/economics-finance-domain/core-finance)           
 
-Disclaimer - I have not read/gone-through e2e of all the resources(especially the paid ones). For the paid ones, mainly checked the ToC, reviews & other articles where they have been referred as recommended resources.Also some resources might not be working for various reasons, although they were working at the time of initial drafting.
+Disclaimer - I have not read/gone-through e2e of all the resources(especially the paid ones). For the paid ones, mainly checked the ToC, reviews & other articles where they have been referred as recommended resources.Also some resources links might not be working for various reasons, although they were working at the time of initial drafting.
