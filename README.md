@@ -111,7 +111,7 @@ Some Good DataScience/AI/ML/DL Resources -
 [Responsible AI](https://www.packtpub.com/product/platform-and-model-design-for-responsible-ai/9781803237077)          
        
        
-Some Good IoT(Internet of Things) Resources - 
+Some Good IoT(Internet of Things) Resources -      
 [IoT & Edge Computing for Architects](https://www.packtpub.com/product/iot-and-edge-computing-for-architects-second-edition/9781839214806)         
 [Architectural Patterns And Techniques for Developing IoT Solutions](https://www.packtpub.com/product/architectural-patterns-and-techniques-for-developing-iot-solutions/9781803245492)    
 [Embedded Systems Architecture](https://www.packtpub.com/product/embedded-systems-architecture-second-edition/9781803239545)       
