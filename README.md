@@ -8,21 +8,21 @@ Before anything else, 2 suggestions -
 How to Learn any New Technology -      
 https://www.linkedin.com/posts/sandip-ray-1b5531b4_how-to-learn-a-new-itsoftware-related-technology-activity-6434621227041644544-FHzd?utm_source=share&utm_medium=member_ios                   
 Some great DSA Resources -     
-https://www.amazon.in/Modern-Challenge-programmer-interesting-programming-ebook/dp/B07GYLLWVN/ref=mp_s_a_1_3?crid=AM7LJ9KESQWU&keywords=modern+c%23+challenge&qid=1698376715&sprefix=modern+c%23+challenge%2Caps%2C257&sr=8-3    
-https://www.amazon.in/gp/aw/d/B07SD76KLH/ref=tmm_kin_swatch_0?ie=UTF8&qid=1698376308&sr=8-3         
-https://www.amazon.in/Data-Structures-Algorithms-Made-Easy-ebook/dp/B08CMHNPSH/ref=mp_s_a_1_4?crid=1AN17OBJF10BG&keywords=data+structures+and+algorithms+made+easy+in+java&nsdOptOutParam=true&qid=1698376784&sprefix=algorithms+made+easy+in+java%2Caps%2C222&sr=8-4      https://www.designofapproxalgs.com/      
-https://www.amazon.in/Randomized-Algorithms-Rajeev-Motwani/dp/0521613906/ref=mp_s_a_1_3?crid=4O6MVQWI1TPH&keywords=randomized+algorithms&qid=1698376424&sprefix=randomi%2Caps%2C245&sr=8-3       
-https://nostarch.com/art-randomness      
-https://www.amazon.in/gp/aw/d/B098C4MKF5/ref=tmm_kin_swatch_0?ie=UTF8&qid=1698376485&sr=8-5        
-https://www.amazon.in/Algorithms-Data-Structures-Massive-Datasets/dp/1617298034/ref=mp_s_a_1_3?crid=32CY9AP8E7IJP&keywords=algorithms+and+data+structures+for+massive+datasets&qid=1698376584&sprefix=algorithms+and+data+structures+for+massive+%2Caps%2C223&sr=8-3       
-https://www.amazon.in/Probabilistic-Data-Structures-Algorithms-Applications/dp/3748190484/ref=mp_s_a_1_3?crid=1AD7631FNF8NP&keywords=probabilistic+data+structures&qid=1698376885&sprefix=probabilistic+data+structures%2Caps%2C215&sr=8-3       
-https://leetcode.com/discuss/career/448285/List-of-questions-sorted-by-common-patterns     
-https://www.geeksforgeeks.org/recursion-practice-problems-solutions/    
-https://leetcode.com/discuss/general-discussion/458695/Dynamic-Programming-Patterns         
-https://algo.monster/problems/dynamic_programming_intro        
-https://ashutosh-kumar.medium.com/dynamic-programming-types-and-patterns-7b1406c46a6b         
-https://leetcode.com/problemset/all/     
-https://en.m.wikipedia.org/wiki/Combinatorial_optimization (check specific problems)    
+[Modern C# Challenge](https://www.amazon.in/Modern-Challenge-programmer-interesting-programming-ebook/dp/B07GYLLWVN/ref=mp_s_a_1_3?crid=AM7LJ9KESQWU&keywords=modern+c%23+challenge&qid=1698376715&sprefix=modern+c%23+challenge%2Caps%2C257&sr=8-3)    
+[Essential Algorithms](https://www.amazon.in/gp/aw/d/B07SD76KLH/ref=tmm_kin_swatch_0?ie=UTF8&qid=1698376308&sr=8-3)         
+[Data Structures And Algorithms Made Easy in Java](https://www.amazon.in/Data-Structures-Algorithms-Made-Easy-ebook/dp/B08CMHNPSH/ref=mp_s_a_1_4?crid=1AN17OBJF10BG&keywords=data+structures+and+algorithms+made+easy+in+java&nsdOptOutParam=true&qid=1698376784&sprefix=algorithms+made+easy+in+java%2Caps%2C222&sr=8-4)     [Design of Approximation Algorithms](https://www.designofapproxalgs.com/)      
+[Randomized Algorithms](https://www.amazon.in/Randomized-Algorithms-Rajeev-Motwani/dp/0521613906/ref=mp_s_a_1_3?crid=4O6MVQWI1TPH&keywords=randomized+algorithms&qid=1698376424&sprefix=randomi%2Caps%2C245&sr=8-3)       
+[Art of Randomness](https://nostarch.com/art-randomness)      
+[Advanced Algorithms And Data Structures](https://www.amazon.in/gp/aw/d/B098C4MKF5/ref=tmm_kin_swatch_0?ie=UTF8&qid=1698376485&sr=8-5)        
+[Algorithms Andf Data Structures for Massive Datasets](https://www.amazon.in/Algorithms-Data-Structures-Massive-Datasets/dp/1617298034/ref=mp_s_a_1_3?crid=32CY9AP8E7IJP&keywords=algorithms+and+data+structures+for+massive+datasets&qid=1698376584&sprefix=algorithms+and+data+structures+for+massive+%2Caps%2C223&sr=8-3)       
+[Probabilistic Data Structures and Algorithms for Big Data Applications](https://www.amazon.in/Probabilistic-Data-Structures-Algorithms-Applications/dp/3748190484/ref=mp_s_a_1_3?crid=1AD7631FNF8NP&keywords=probabilistic+data+structures&qid=1698376885&sprefix=probabilistic+data+structures%2Caps%2C215&sr=8-3)       
+[Leetcode List of questions sorted by common patterns.](https://leetcode.com/discuss/career/448285/List-of-questions-sorted-by-common-patterns)     
+[Recursive Practice Problems with Solutions](https://www.geeksforgeeks.org/recursion-practice-problems-solutions/)    
+[Dynamic Programming Intro](https://algo.monster/problems/dynamic_programming_intro)      
+[Dynamic Programming Patterns](https://leetcode.com/discuss/general-discussion/458695/Dynamic-Programming-Patterns)               
+[Dynamic Programming Types & Patterns](https://ashutosh-kumar.medium.com/dynamic-programming-types-and-patterns-7b1406c46a6b)         
+[Leetcode Problems](https://leetcode.com/problemset/all/)     
+[Combinatorial Optimization](https://en.m.wikipedia.org/wiki/Combinatorial_optimization) (check specific problems)    
      
 Software Architecture in General -     
 https://www.linkedin.com/posts/sandip-ray-1b5531b4_some-free-good-resources-for-developers-activity-7043874395898986496-bYFe?utm_source=share&utm_medium=member_ios   
