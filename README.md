@@ -86,12 +86,12 @@ Some Good Software Architecture(& Design) Resources In General -
 
 Some Good Data Engineering Resources -      
 [Awesome Data Engineering](https://awesomedataengineering.com)   
+[Architecting Data Intensive Applications](https://www.oreilly.com/library/view/architecting-data-intensive-applications/9781786465092/)      
 [Deciphering Data Architectures](https://www.jamesserra.com/archive/2023/11/all-the-chapters-in-my-data-architecture-book-are-now-available/)       
 [Data Engineering Git Repos](https://www.kdnuggets.com/2023/02/learn-data-engineering-github-repositories.html)        
 [Fundamentals of Data Engineering](https://www.oreilly.com/library/view/fundamentals-of-data/9781098108298/)       
 [Data Reference Architecture](https://www.linkedin.com/posts/rocky-bhatia-a4801010_%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F-%3F-%3F%3F%3F%3F%3F%3F%3F-activity-7117111531539984384-nUM4?trk=public_profile_like_view)       
-[Streaming Data Mesh](https://www.oreilly.com/library/view/streaming-data-mesh/9781098130718/)
-[Architecting Data Intensive Applications](https://www.oreilly.com/library/view/architecting-data-intensive-applications/9781786465092/)                    
+[Streaming Data Mesh](https://www.oreilly.com/library/view/streaming-data-mesh/9781098130718/)      
 [Grokking Streaming Systems](https://www.manning.com/books/grokking-streaming-systems)      
 [Azure Data & AI Architect's Handbook](https://www.packtpub.com/product/azure-data-and-ai-architect-handbook/9781803234861)          
 [AWS Certified Data Analytics Study Guide](https://www.amazon.in/gp/aw/d/B08PJMV9BZ/ref=tmm_kin_swatch_0?ie=UTF8&qid=&sr=)    
@@ -103,13 +103,14 @@ Some Good DataScience/AI/ML/DL Resources -
 [Enterprise AI](https://www.enterprise-ai-book.com/)         
 [AI For Marketing](https://www.algorithmicmarketingbook.com/)          
 [ML for Algo Trading](https://www.packtpub.com/product/machine-learning-for-algorithmic-trading-second-edition/9781839217715)         
-[Developing HFT Systems](https://www.packtpub.com/product/developing-high-frequency-trading-systems/9781803242811)     
+[Developing HFT Systems](https://www.packtpub.com/product/developing-high-frequency-trading-systems/9781803242811)       
+[Computational/Programmatic Advertising](https://www.udemy.com/course/programmatic-advertising-master-course/)      
 [Enterprise GenAI](https://www.amazon.in/Enterprise-GENERATIVE-Architected-Framework-Patterns-ebook/dp/B0CJ6J4F75)      
 [Multi-Modal GenAI](https://huyenchip.com/2023/10/10/multimodal.html)       
 [MLOps Guide](https://mlops-guide.github.io/)            
 [Another great MLOps Guide](https://huyenchip.com/mlops/)             
-[Responsible AI](https://www.packtpub.com/product/platform-and-model-design-for-responsible-ai/9781803237077)          
-       
+[Responsible AI](https://www.packtpub.com/product/platform-and-model-design-for-responsible-ai/9781803237077)            
+     
        
 Some Good IoT(Internet of Things) Resources -      
 [IoT & Edge Computing for Architects](https://www.packtpub.com/product/iot-and-edge-computing-for-architects-second-edition/9781839214806)         
@@ -120,6 +121,8 @@ Some Good IoT(Internet of Things) Resources -
 [Some good RTOS Courses](https://www.udemy.com/user/kiran-nayak-2/)   
 [Edge Computing Systems with Kubernetes{from things' deployment perspective}](https://www.packtpub.com/product/edge-computing-systems-with-kubernetes/9781800568594)           
 [IoT Edge Computing with Micro K8s](https://www.packtpub.com/product/iot-edge-computing-with-microk8s/9781803230634)          
+      
+     
+N.B. -> If anyone is interested in learning Finance at it's core, then one can refer [Khan Academy's Awesome Core Finance Course](https://www.khanacademy.org/economics-finance-domain/core-finance)        
 
-
-Disclaimer - I have not read e2e of all the resources(especially the paid ones). For the paid ones, mainly checked the ToC, reviews & other articles where they have been referred as recommended resources.
+Disclaimer - I have not read/gone-through e2e of all the resources(especially the paid ones). For the paid ones, mainly checked the ToC, reviews & other articles where they have been referred as recommended resources.
