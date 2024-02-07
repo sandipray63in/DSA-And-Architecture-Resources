@@ -119,7 +119,7 @@ Some Good DataScience/AI/ML/DL Resources -
 [DL for Graphs](https://yaoma24.github.io/dlg_book/)        
 [ML for Text](https://www.packtpub.com/product/machine-learning-techniques-for-text/9781803242385)     
 [Representation Learning for NLP](https://library.oapen.org/handle/20.500.12657/76271)        
-[Speech & Language PRocessing](https://web.stanford.edu/~jurafsky/slp3/)        
+[Speech & Language Processing](https://web.stanford.edu/~jurafsky/slp3/)        
 [Some NLP Applications](https://machinelearningmastery.com/applications-of-deep-learning-for-natural-language-processing/)     
 [Modern Computer Vision](https://www.packtpub.com/product/modern-computer-vision-with-pytorch/9781839213472)     
 [PyImageSearch Courses & Books](https://pyimagesearch.com/books-and-courses/)      
