@@ -81,7 +81,7 @@ Some Good Software Architecture(& System Design & Software Engineering) Resource
 [Distributed and Cloud Computing: From Parallel Processing to the Internet of Things](https://www.amazon.in/gp/aw/d/9381269238/ref=ox_sc_act_image_2?smid=A1GUOQ2UF3ML93&psc=1)      
 [Distributed Systems Design Hints](https://muratbuffalo.blogspot.com/2023/10/hints-for-distributed-systems-design.html)    
 [Intro to Parallel Computing](https://www.amazon.in/gp/aw/d/8131708071/ref=ox_sc_act_image_1?smid=AJEL1QPE94YMX&psc=1)       
-[System Desin White Papers](https://interviewready.io/blog/white-papers-worth-reading-for-software-engineers)      
+[System Design White Papers](https://interviewready.io/blog/white-papers-worth-reading-for-software-engineers)      
 
 
 Some Good Data Engineering Resources -      
@@ -99,7 +99,7 @@ Some Good Data Engineering Resources -
 [Making Sense of Streaming](https://martin.kleppmann.com/2016/05/24/making-sense-of-stream-processing.html)       
 [Streaming Data Mesh](https://www.oreilly.com/library/view/streaming-data-mesh/9781098130718/)      
 [Grokking Streaming Systems](https://www.manning.com/books/grokking-streaming-systems)     
-[Hadoop EcoSystem Table](https://hadoopecosystemtable.github.io/)            
+[Hadoop Ecosystem Table](https://hadoopecosystemtable.github.io/)            
      
      
 Some Good DataScience/AI/ML/DL Resources -    
@@ -141,7 +141,7 @@ Some Good IoT Resources -
 [IoT & Edge Computing for Architects](https://www.packtpub.com/product/iot-and-edge-computing-for-architects-second-edition/9781839214806)         
 [Architectural Patterns And Techniques for Developing IoT Solutions](https://www.packtpub.com/product/architectural-patterns-and-techniques-for-developing-iot-solutions/9781803245492)    
 [Embedded Systems Architecture](https://www.packtpub.com/product/embedded-systems-architecture-second-edition/9781803239545)       
-[Architecting High Performavce Embedded Systems](https://www.packtpub.com/product/architecting-high-performance-embedded-systems/9781789955965)     
+[Architecting High Performance Embedded Systems](https://www.packtpub.com/product/architecting-high-performance-embedded-systems/9781789955965)     
 [Hands On Network Programming with .NET Core](https://www.packtpub.com/product/hands-on-network-programming-with-c-and-net-core/9781789340761)     
 [Some good RTOS Courses](https://www.udemy.com/user/kiran-nayak-2/)   
 [Edge Computing Systems Deployment with K8s](https://www.packtpub.com/product/edge-computing-systems-with-kubernetes/9781800568594)           
@@ -150,4 +150,4 @@ Some Good IoT Resources -
      
 N.B. -> If anyone is interested in learning Finance at it's core, then one can refer [Khan Academy's Awesome Free Finance And Capital Markets Course](https://www.khanacademy.org/economics-finance-domain/core-finance)           
 
-Disclaimer - I have not read/gone-through e2e of all the resources(especially the paid ones). For the paid ones, mainly checked the ToC, reviews & other articles where they have been referred as recommended resources.Also some resources links might not be working for various reasons, although they were working at the time of initial drafting.
+Disclaimer - I have not read/gone-through e2e of all the resources(especially the paid ones). For the paid ones, mainly checked the ToC, reviews & other articles where they have been referred as recommended resources. Also some resources links might not be working for various reasons, although they were working at the time of initial drafting.
