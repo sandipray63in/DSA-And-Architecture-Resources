@@ -103,8 +103,8 @@ Some Good Data Engineering Resources -
      
      
 Some Good DataScience/AI/ML/DL Resources -    
-[3Blue1Brown Maths Lessons](https://www.3blue1brown.com/#lessons)(mainly Linear Algebra, Calculus & Probability)   
-[Khan Academy's Maths Courses](https://www.khanacademy.org/math)(again mainly Linear Algebra, Calculus & Statistics/Probability)   
+[3Blue1Brown Maths Lessons](https://www.3blue1brown.com/#lessons)(mainly Linear Algebra, Calculus, Probability & Differential Equations{ODE & PDE is needed mainly for Scientific ML})   
+[Khan Academy's Maths Courses](https://www.khanacademy.org/math)(again mainly Linear Algebra, Calculus, Statistics/Probability & Differential Equations{ODE & PDE is needed mainly for Scientific ML})   
 [Intro to Statistical Learning](https://www.statlearning.com/)       
 [Elements of Statistical Learning](https://hastie.su.domains/ElemStatLearn/)      
 [Enterprise AI](https://www.enterprise-ai-book.com/)         
