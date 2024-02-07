@@ -104,7 +104,9 @@ Some Good Data Engineering Resources -
      
 Some Good DataScience/AI/ML/DL Resources -    
 [3Blue1Brown Maths Lessons](https://www.3blue1brown.com/#lessons)(mainly Linear Algebra, Calculus & Probability)   
-[Khan Academy's Maths Courses](https://www.khanacademy.org/math)(again mainly Linear Algebra, Calculus & Statistics/Probability)        
+[Khan Academy's Maths Courses](https://www.khanacademy.org/math)(again mainly Linear Algebra, Calculus & Statistics/Probability)   
+[Intro to Statistical Learning](https://www.statlearning.com/)       
+[Elements of Statistical Learning](https://hastie.su.domains/ElemStatLearn/)      
 [Enterprise AI](https://www.enterprise-ai-book.com/)         
 [AI For Marketing](https://www.algorithmicmarketingbook.com/)          
 [ML for Algo Trading](https://www.packtpub.com/product/machine-learning-for-algorithmic-trading-second-edition/9781839217715) (Stock Market Basics{[I](https://www.wintwealth.com/blog/understanding-the-mechanism-of-how-the-stock-market-works/) , [II](https://www.investopedia.com/articles/investing/082614/how-stock-market-works.asp) & [III](https://www.omscs-notes.com/machine-learning-trading/market-mechanics)} & [Algo Trading Basics](https://www.investopedia.com/articles/active-trading/101014/basics-algorithmic-trading-concepts-and-examples.asp))            
@@ -115,7 +117,8 @@ Some Good DataScience/AI/ML/DL Resources -
 [Dive Into Depp Learning](https://d2l.ai/)       
 [GNN:Libraries, Tools & Learning Resources](https://neptune.ai/blog/graph-neural-networks-libraries-tools-learning-resources)       
 [DL for Graphs](https://yaoma24.github.io/dlg_book/)        
-[ML for Text](https://www.packtpub.com/product/machine-learning-techniques-for-text/9781803242385)       
+[ML for Text](https://www.packtpub.com/product/machine-learning-techniques-for-text/9781803242385)     
+[Representation Learning for NLP](https://library.oapen.org/handle/20.500.12657/76271)        
 [Speech & Language PRocessing](https://web.stanford.edu/~jurafsky/slp3/)        
 [Some NLP Applications](https://machinelearningmastery.com/applications-of-deep-learning-for-natural-language-processing/)     
 [Modern Computer Vision](https://www.packtpub.com/product/modern-computer-vision-with-pytorch/9781839213472)     
