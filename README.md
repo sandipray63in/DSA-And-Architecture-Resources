@@ -115,6 +115,7 @@ Some Good DataScience/AI/ML/DL Resources -
 [Some NLP Applications](https://machinelearningmastery.com/applications-of-deep-learning-for-natural-language-processing/)     
 [Modern Computer Vision](https://www.packtpub.com/product/modern-computer-vision-with-pytorch/9781839213472)     
 [PyImageSearch Courses & Books](https://pyimagesearch.com/books-and-courses/)      
+[ML for Computer Vision](https://www.oreilly.com/library/view/practical-machine-learning/9781098102357/)        
 [DL for Vision](https://github.com/moelgendy/deep_learning_for_vision_systems)         
 [Computer Vision: Algorithms and Applications](https://szeliski.org/Book/)    
 [Multiple View Geometry in Computer Vision](https://www.robots.ox.ac.uk/~vgg/hzbook/)        
