@@ -105,7 +105,7 @@ Some Good Data Engineering Resources -
 Some Good DataScience/AI/ML/DL Resources -    
 [3Blue1Brown Maths Lessons](https://www.3blue1brown.com/#lessons)(mainly Linear Algebra, Calculus, Probability & Differential Equations{ODE & PDE is needed mainly for Scientific ML})   
 [Khan Academy's Maths Courses](https://www.khanacademy.org/math)(again mainly Linear Algebra, Calculus, Statistics/Probability & Differential Equations{ODE & PDE is needed mainly for Scientific ML})   
-[Statistical Learning Books](https://hastie.su.domains/publications.html)             
+[Statistical Learning Books](https://hastie.su.domains/publications.html)(mainly the 1st 2 books)       
 [Enterprise AI](https://www.enterprise-ai-book.com/)         
 [AI For Marketing](https://www.algorithmicmarketingbook.com/)          
 [ML for Algo Trading](https://www.packtpub.com/product/machine-learning-for-algorithmic-trading-second-edition/9781839217715) (Stock Market Basics{[I](https://www.wintwealth.com/blog/understanding-the-mechanism-of-how-the-stock-market-works/) , [II](https://www.investopedia.com/articles/investing/082614/how-stock-market-works.asp) & [III](https://www.omscs-notes.com/machine-learning-trading/market-mechanics)} & [Algo Trading Basics](https://www.investopedia.com/articles/active-trading/101014/basics-algorithmic-trading-concepts-and-examples.asp))            
