@@ -159,7 +159,7 @@ Some Good DataScience/AI/ML/DL(or related) Resources -
 [Awesome Causality](http://shubhanshu.com/awesome-causality/)       
 [Awesome AutoML](https://github.com/windmaple/awesome-AutoML)([Free AutoML Text](https://link.springer.com/book/10.1007/978-3-030-05318-5))       
 [Awesome Scientific ML](https://github.com/MartinuzziFrancesco/awesome-scientific-machine-learning?tab=readme-ov-file#books)    
-[Best Data Science Interview Books](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)          
+[Best Data Science Interview Books](https://www.acethedatascienceinterview.com/best-data-science-interview-books)            
      
        
 Some Good IoT Resources -      
