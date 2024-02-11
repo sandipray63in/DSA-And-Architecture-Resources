@@ -149,13 +149,13 @@ Some Good DataScience/AI/ML/DL(or related) Resources -
 [MLOps Guide](https://mlops-guide.github.io/)            
 [Another great MLOps Guide](https://huyenchip.com/mlops/)             
 [Responsible AI](https://www.packtpub.com/product/platform-and-model-design-for-responsible-ai/9781803237077)      
-[MDP](https://builtin.com/machine-learning/markov-decision-process)     
+[Markov Decision Process](https://builtin.com/machine-learning/markov-decision-process)     
 [Free RL Course](https://www.realworldml.xyz/the-hands-on-reinforcement-learning-course)    
 [Decision Making Algos](https://algorithmsbook.com)      
 [Sequential Decision Analytics](https://castle.princeton.edu/sda/)   
 [Distributional RL](https://www.distributional-rl.org/)     
 [Awesome Causality](http://shubhanshu.com/awesome-causality/)       
-[Awesome AutoML](https://github.com/windmaple/awesome-AutoML)([Free AutoML Text](https://link.springer.com/book/10.1007/978-3-030-05318-5)   
+[Awesome AutoML](https://github.com/windmaple/awesome-AutoML)([Free AutoML Text](https://link.springer.com/book/10.1007/978-3-030-05318-5))       
 [Awesome Scientific ML](https://github.com/MartinuzziFrancesco/awesome-scientific-machine-learning?tab=readme-ov-file#books)        
      
        
