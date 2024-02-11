@@ -102,13 +102,17 @@ Some Good Data Engineering Resources -
 [Making Sense of Streaming](https://martin.kleppmann.com/2016/05/24/making-sense-of-stream-processing.html)       
 [Streaming Data Mesh](https://www.oreilly.com/library/view/streaming-data-mesh/9781098130718/)      
 [Grokking Streaming Systems](https://www.manning.com/books/grokking-streaming-systems)     
-[Hadoop Ecosystem Table](https://hadoopecosystemtable.github.io/)            
+[Hadoop Ecosystem Table](https://hadoopecosystemtable.github.io/)          
+[Fundamentals of DataViz](https://clauswilke.com/dataviz/)     
      
      
 Some Good DataScience/AI/ML/DL(or related) Resources -    
-[3Blue1Brown Maths Lessons](https://www.3blue1brown.com/#lessons)(mainly Linear Algebra, Calculus, Probability & Differential Equations{ODE & PDE are needed mainly for Scientific ML})   
-[Khan Academy's Maths Courses](https://www.khanacademy.org/math)(again mainly Linear Algebra, Calculus, Statistics/Probability & Differential Equations{ODE & PDE are needed mainly for Scientific ML})   
-[Statistical Learning Books](https://hastie.su.domains/publications.html)(mainly the 1st 2 books)       
+[3Blue1Brown Maths Lessons](https://www.3blue1brown.com/#lessons)(mainly Linear Algebra, Calculus, Probability & Differential Equations{ODE & PDE are needed mainly for Scientific ML})     
+[Khan Academy's Maths Courses](https://www.khanacademy.org/math)(again mainly Linear Algebra, Calculus, Statistics/Probability & Differential Equations{ODE & PDE are needed mainly for Scientific ML})     
+[Essential Maths for AI](https://github.com/halanelson/Essential-Math-For-AI)       
+[Information Theory, Inference & Learning Algos](https://www.amazon.in/Information-Theory-Inference-Learning-Algorithms/dp/0521642981)([Khan Academy's Information Theory](https://www.khanacademy.org/computing/computer-science/informationtheory))       
+[Statistical Learning Books](https://hastie.su.domains/publications.html)(mainly the 1st 2 books)     
+
 [Enterprise AI](https://www.enterprise-ai-book.com/)         
 [AI For Marketing](https://www.algorithmicmarketingbook.com/)          
 [ML for Algo Trading](https://www.packtpub.com/product/machine-learning-for-algorithmic-trading-second-edition/9781839217715) (Stock Market Basics{[I](https://www.wintwealth.com/blog/understanding-the-mechanism-of-how-the-stock-market-works/) , [II](https://www.investopedia.com/articles/investing/082614/how-stock-market-works.asp) & [III](https://www.omscs-notes.com/machine-learning-trading/market-mechanics)} & [Algo Trading Basics](https://www.investopedia.com/articles/active-trading/101014/basics-algorithmic-trading-concepts-and-examples.asp))            
