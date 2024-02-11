@@ -125,7 +125,8 @@ Some Good DataScience/AI/ML/DL(or related) Resources -
 [ML for Algo Trading](https://www.packtpub.com/product/machine-learning-for-algorithmic-trading-second-edition/9781839217715) (Stock Market Basics{[I](https://www.wintwealth.com/blog/understanding-the-mechanism-of-how-the-stock-market-works/) , [II](https://www.investopedia.com/articles/investing/082614/how-stock-market-works.asp) & [III](https://www.omscs-notes.com/machine-learning-trading/market-mechanics)} & [Algo Trading Basics](https://www.investopedia.com/articles/active-trading/101014/basics-algorithmic-trading-concepts-and-examples.asp))            
 [Developing HFT Systems](https://www.packtpub.com/product/developing-high-frequency-trading-systems/9781803242811)    
 [Forex Trading](https://www.packtpub.com/product/getting-started-with-forex-trading-using-python/9781804616857)        
-[Computational/Programmatic Advertising](https://www.udemy.com/course/programmatic-advertising-master-course/)       
+[Computational/Programmatic Advertising](https://www.udemy.com/course/programmatic-advertising-master-course/)    
+[Hands-on ML](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)   
 [Grokking Deep Learning](https://www.manning.com/books/grokking-deep-learning)   
 [Dive Into Depp Learning](https://d2l.ai/)       
 [GNN:Libraries, Tools & Learning Resources](https://neptune.ai/blog/graph-neural-networks-libraries-tools-learning-resources)       
@@ -156,7 +157,8 @@ Some Good DataScience/AI/ML/DL(or related) Resources -
 [Distributional RL](https://www.distributional-rl.org/)     
 [Awesome Causality](http://shubhanshu.com/awesome-causality/)       
 [Awesome AutoML](https://github.com/windmaple/awesome-AutoML)([Free AutoML Text](https://link.springer.com/book/10.1007/978-3-030-05318-5))       
-[Awesome Scientific ML](https://github.com/MartinuzziFrancesco/awesome-scientific-machine-learning?tab=readme-ov-file#books)        
+[Awesome Scientific ML](https://github.com/MartinuzziFrancesco/awesome-scientific-machine-learning?tab=readme-ov-file#books)    
+[Best Data Science Interview Books](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)          
      
        
 Some Good IoT Resources -      
