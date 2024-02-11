@@ -68,7 +68,7 @@ Some Good Software Architecture(& System Design & Software Engineering) Resource
 [CVE List](https://0xn3va.gitbook.io/cheat-sheets/container/escaping/cve-list)    
 [PortSwigger All Learning Materials](https://portswigger.net/web-security/all-materials/detailed)      
 [PortSwigger Vulnerabilities List](https://portswigger.net/burp/documentation/scanner/vulnerabilities-list)       
-[Practical Cybersecurity Architecture](https://www.packtpub.com/product/practical-cybersecurity-architecture-second-edition/9781837637164)      
+[Practical Cybersecurity Architecture](https://www.packtpub.com/product/practical-cybersecurity-architecture-second-edition/9781837637164)       
 [Zero Trust Overview & Playbook Introduction](https://www.packtpub.com/product/zero-trust-overview-and-playbook-introduction/9781800568662?_gl=1*1lyki41*_gcl_au*MTE5NDQ3NTYwMy4xNzA3MDI4MDkz*_ga*MTA2OTA0NTM2OS4xNzA3MDI4MDkz*_ga_Q4R8G7SJDK*MTcwNzYzMzc4MS42LjEuMTcwNzYzODgzMy41Ny4wLjA.)      
 [Zero Trust Security](https://www.linkedin.com/pulse/zero-trust-security-cautious-move-balaji-ramarajan?trk=article-ssr-frontend-pulse_more-articles_related-content-card)     
 [Awesome Reverse Engineering](https://github.com/tylerha97/awesome-reversing)        
