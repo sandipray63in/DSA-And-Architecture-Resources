@@ -85,6 +85,7 @@ Some Good Software Architecture(& System Design & Software Engineering) Resource
 [Distributed Systems Design Hints](https://muratbuffalo.blogspot.com/2023/10/hints-for-distributed-systems-design.html)    
 [Intro to Parallel Computing](https://www.amazon.in/gp/aw/d/8131708071/ref=ox_sc_act_image_1?smid=AJEL1QPE94YMX&psc=1)       
 [System Design White Papers](https://interviewready.io/blog/white-papers-worth-reading-for-software-engineers)      
+[Best Engineering Blogs](https://draft.dev/learn/engineering-blogs)      
 
 
 Some Good Data Engineering Resources -      
