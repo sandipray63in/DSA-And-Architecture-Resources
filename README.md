@@ -155,8 +155,8 @@ Some Good DataScience/AI/ML/DL(or related) Resources -
 [Sequential Decision Analytics](https://castle.princeton.edu/sda/)   
 [Distributional RL](https://www.distributional-rl.org/)     
 [Awesome Causality](http://shubhanshu.com/awesome-causality/)       
-[Awesome AutoML](https://github.com/windmaple/awesome-AutoML)      
-[Scientific ML](https://sciml.ai/)         
+[Awesome AutoML](https://github.com/windmaple/awesome-AutoML)([Free AutoML Text](https://link.springer.com/book/10.1007/978-3-030-05318-5)   
+[Awesome Scientific ML](https://github.com/MartinuzziFrancesco/awesome-scientific-machine-learning?tab=readme-ov-file#books)        
      
        
 Some Good IoT Resources -      
