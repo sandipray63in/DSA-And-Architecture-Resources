@@ -35,7 +35,7 @@ Some Good Software Architecture(& System Design & Software Engineering) Resource
 [Reactive Manifesto](https://hub.packtpub.com/what-is-the-reactive-manifesto/amp/)      
 [Software Engineering](https://www.amazon.in/Software-Engineering-SPPU-19-Course/dp/9390450411/ref=mp_s_a_1_4?crid=14XXENK15LVM0&keywords=software+engineering+sppu&qid=1695777546&sprefix=software+engineering+sppu%2Caps%2C211&sr=8-4)       
 [Software Supply Chain](https://en.m.wikipedia.org/wiki/Software_supply_chain)     
-[Software BOM{Bill of MAterials}](https://www.synopsys.com/blogs/software-security/software-bill-of-materials-bom.html)    
+[Software BOM{Bill of Materials}](https://www.synopsys.com/blogs/software-security/software-bill-of-materials-bom.html)    
 [SAFE Estimation Techniques](https://www.linkedin.com/pulse/estimation-prioritization-agile-safe-framework-samir)                
 [Awesome Architecture](https://awesome-architecture.com/)      
 [Design It](https://pragprog.com/titles/mkdsa/design-it/)                
