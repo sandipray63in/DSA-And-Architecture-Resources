@@ -18,13 +18,13 @@ Some good DSA Resources -
 [Dynamic Programming Patterns](https://leetcode.com/discuss/general-discussion/458695/Dynamic-Programming-Patterns)               
 [Dynamic Programming Types & Patterns](https://ashutosh-kumar.medium.com/dynamic-programming-types-and-patterns-7b1406c46a6b)         
 [Leetcode Problems](https://leetcode.com/problemset/all/)     
-[Combinatorial Optimization](https://en.m.wikipedia.org/wiki/Combinatorial_optimization) (check "Specific problems")([Google OR Tools](https://developers.google.com/optimization))       
     [Design of Approximation Algorithms](https://www.designofapproxalgs.com/)      
 [Randomized Algorithms](https://www.amazon.in/Randomized-Algorithms-Rajeev-Motwani/dp/0521613906/ref=mp_s_a_1_3?crid=4O6MVQWI1TPH&keywords=randomized+algorithms&qid=1698376424&sprefix=randomi%2Caps%2C245&sr=8-3)       
 [Art of Randomness](https://nostarch.com/art-randomness)      
 [Advanced Algorithms And Data Structures](https://www.amazon.in/gp/aw/d/B098C4MKF5/ref=tmm_kin_swatch_0?ie=UTF8&qid=1698376485&sr=8-5)        
 [Algorithms And Data Structures for Massive Datasets](https://www.amazon.in/Algorithms-Data-Structures-Massive-Datasets/dp/1617298034/ref=mp_s_a_1_3?crid=32CY9AP8E7IJP&keywords=algorithms+and+data+structures+for+massive+datasets&qid=1698376584&sprefix=algorithms+and+data+structures+for+massive+%2Caps%2C223&sr=8-3)       
-[Probabilistic Data Structures and Algorithms for Big Data Applications](https://www.amazon.in/Probabilistic-Data-Structures-Algorithms-Applications/dp/3748190484/ref=mp_s_a_1_3?crid=1AD7631FNF8NP&keywords=probabilistic+data+structures&qid=1698376885&sprefix=probabilistic+data+structures%2Caps%2C215&sr=8-3)            
+[Probabilistic Data Structures and Algorithms for Big Data Applications](https://www.amazon.in/Probabilistic-Data-Structures-Algorithms-Applications/dp/3748190484/ref=mp_s_a_1_3?crid=1AD7631FNF8NP&keywords=probabilistic+data+structures&qid=1698376885&sprefix=probabilistic+data+structures%2Caps%2C215&sr=8-3)       
+[Combinatorial Optimization](https://en.m.wikipedia.org/wiki/Combinatorial_optimization) (check "Specific problems")([Google OR Tools](https://developers.google.com/optimization))       
       
 Some Good Software Architecture(& System Design & Software Engineering) Resources In General -     
 [Good Resources for Developers](https://www.linkedin.com/posts/sandip-ray-1b5531b4_some-free-good-resources-for-developers-activity-7043874395898986496-bYFe?utm_source=share&utm_medium=member_ios)     
@@ -99,14 +99,14 @@ Some Good Data Engineering Resources -
 [Azure Data & AI Architect's Handbook](https://www.packtpub.com/product/azure-data-and-ai-architect-handbook/9781803234861)          
 [AWS Certified Data Analytics Study Guide](https://www.amazon.in/gp/aw/d/B08PJMV9BZ/ref=tmm_kin_swatch_0?ie=UTF8&qid=&sr=)    
 [Zach Wilson's Data Engineering Courses](https://www.zachwilson.tech)     
+[Fundamentals of DataViz](https://clauswilke.com/dataviz/)   
 [Designing Data Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)     
 [Database Internals](https://www.databass.dev)    
 [Making Sense of Streaming](https://martin.kleppmann.com/2016/05/24/making-sense-of-stream-processing.html)       
 [Streaming Data Mesh](https://www.oreilly.com/library/view/streaming-data-mesh/9781098130718/)      
 [Grokking Streaming Systems](https://www.manning.com/books/grokking-streaming-systems)     
 [Hadoop Ecosystem Table](https://hadoopecosystemtable.github.io/)          
-[Fundamentals of DataViz](https://clauswilke.com/dataviz/)     
-     
+  
      
 Some Good DataScience/AI/ML/DL(or related) Resources -    
 [3Blue1Brown Maths Lessons](https://www.3blue1brown.com/#lessons)(mainly Linear Algebra, Calculus, Probability & Differential Equations{ODE & PDE are needed mainly for Scientific ML})     
