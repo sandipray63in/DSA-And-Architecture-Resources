@@ -18,7 +18,7 @@ Some good DSA Resources -
 [Dynamic Programming Patterns](https://leetcode.com/discuss/general-discussion/458695/Dynamic-Programming-Patterns)               
 [Dynamic Programming Types & Patterns](https://ashutosh-kumar.medium.com/dynamic-programming-types-and-patterns-7b1406c46a6b)         
 [Leetcode Problems](https://leetcode.com/problemset/all/)     
-[Combinatorial Optimization](https://en.m.wikipedia.org/wiki/Combinatorial_optimization) (check specific problems)    
+[Combinatorial Optimization](https://en.m.wikipedia.org/wiki/Combinatorial_optimization) (check "Specific problems")([Google OR Tools](https://developers.google.com/optimization)        
     [Design of Approximation Algorithms](https://www.designofapproxalgs.com/)      
 [Randomized Algorithms](https://www.amazon.in/Randomized-Algorithms-Rajeev-Motwani/dp/0521613906/ref=mp_s_a_1_3?crid=4O6MVQWI1TPH&keywords=randomized+algorithms&qid=1698376424&sprefix=randomi%2Caps%2C245&sr=8-3)       
 [Art of Randomness](https://nostarch.com/art-randomness)      
