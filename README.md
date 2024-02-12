@@ -127,7 +127,8 @@ Some Good DataScience/AI/ML/DL(or related) Resources -
 [Developing HFT Systems](https://www.packtpub.com/product/developing-high-frequency-trading-systems/9781803242811)    
 [Forex Trading](https://www.packtpub.com/product/getting-started-with-forex-trading-using-python/9781804616857)        
 [Computational/Programmatic Advertising](https://www.udemy.com/course/programmatic-advertising-master-course/)    
-[Hands-on ML](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)   
+[Hands-on ML](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)   \
+[Knowledge Representation](https://www.mkbergman.com/)(check the book "A Knowledge Representation Pictionary")         
 [Grokking Deep Learning](https://www.manning.com/books/grokking-deep-learning)   
 [Dive Into Depp Learning](https://d2l.ai/)       
 [GNN:Libraries, Tools & Learning Resources](https://neptune.ai/blog/graph-neural-networks-libraries-tools-learning-resources)       
