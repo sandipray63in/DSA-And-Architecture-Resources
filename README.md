@@ -57,6 +57,7 @@ Some Good Software Architecture(& System Design & Software Engineering) Resource
 [Multi-Cloud K8s](https://www.techtarget.com/searchcloudcomputing/tip/Best-practices-for-a-multi-cloud-Kubernetes-strategy)      
 [Service Virtualization Tools](https://www.qentelli.com/thought-leadership/insights/guide-service-virtualization-tools-use-cases-more)      
 [One Page Cloud Offerings Comparison Site](https://comparecloud.in)        
+[Open Banking](https://www.softwareag.com/en_corporate/resources/api/article/open-banking.html)([Natwest's Bank of APIs](https://www.bankofapis.com/products))   
 [Synopsis' Software Security Principles Course](https://www.synopsys.com/software-integrity/training/software-security-courses/software-security-principles.html) (can check for other security trainings from Synopsys as well)        
 [OAuth Made Easy](https://www.oauth.com/)        
 [Official OAuth Docs](https://oauth.net/2/)  
