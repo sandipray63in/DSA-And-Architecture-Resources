@@ -63,6 +63,7 @@ Some Good Software Architecture(& System Design & Software Engineering) Resource
 [Official OAuth Docs](https://oauth.net/2/)  
 [Learning SAML](http://identitymeme.org/doc/draft-hodges-learning-saml-00.html)        
 [Microservices Security in Action](https://www.amazon.in/gp/product/B09781JQR3/eref=dbs_a_def_awm_bibl_vppi_i0)    
+[Identity Management with Biometrics](https://www.packtpub.com/product/identity-management-with-biometrics/9781838988388)       
 [Advanced API Security](https://www.amazon.in/gp/product/B082WRYJJM/ref=dbs_a_def_awm_bibl_vppi_i1)  
 [24 Deadly Sins of Security](https://www.oreilly.com/library/view/24-deadly-sins/9780071626750/)      
 [OWASP](https://owasp.org/)     
