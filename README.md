@@ -155,6 +155,7 @@ Some Good DataScience/AI/ML/DL(or related) Resources -
 [MLOps Guide](https://mlops-guide.github.io/)            
 [Another great MLOps Guide](https://huyenchip.com/mlops/)             
 [Responsible AI](https://www.packtpub.com/product/platform-and-model-design-for-responsible-ai/9781803237077)      
+[Advances in Financial ML](https://www.quantresearch.org/Lectures.htm)([The Book](https://www.amazon.in/gp/aw/d/B079KLDW21/ref=tmm_kin_swatch_0?ie=UTF8&qid=&sr=))    
 [Markov Decision Process](https://builtin.com/machine-learning/markov-decision-process)     
 [Free RL Course](https://www.realworldml.xyz/the-hands-on-reinforcement-learning-course)    
 [Decision Making Algos](https://algorithmsbook.com)      
