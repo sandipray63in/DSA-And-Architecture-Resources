@@ -135,6 +135,8 @@ Some Good DataScience/AI/ML/DL(or related) Resources -
 [Dive Into Depp Learning](https://d2l.ai/)       
 [GNN:Libraries, Tools & Learning Resources](https://neptune.ai/blog/graph-neural-networks-libraries-tools-learning-resources)       
 [DL for Graphs](https://yaoma24.github.io/dlg_book/)        
+[Building a Recommendation System](https://stratoflow.com/how-to-build-recommendation-system/)         
+[Guide to Recommendation System](https://stratoflow.com/guide-to-recommendation-system/)         
 [Recommendation System Resources](https://stratoflow.com/best-books-on-machine-learning-recommender-systems/)   
 [ML for Text](https://www.packtpub.com/product/machine-learning-techniques-for-text/9781803242385)     
 [Representation Learning for NLP](https://library.oapen.org/handle/20.500.12657/76271)        
