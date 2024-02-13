@@ -124,6 +124,7 @@ Some Good DataScience/AI/ML/DL(or related) Resources -
 [Schaum's Statistics & Econometrics](https://www.mhprofessional.com/schaum-s-outline-of-statistics-and-econometrics-second-edition-9780071755474-usa)    
 [Modern Time Series Forecasting with Python](https://www.packtpub.com/product/modern-time-series-forecasting-with-python/9781803246802)   
 [Practical Time Series Analysis](https://www.oreilly.com/library/view/practical-time-series/9781492041641/)      
+[MMX using Robyn](https://www.analyticsvidhya.com/blog/2023/05/introduction-to-market-mix-model-using-robyn/)      
 [ML for Algo Trading](https://www.packtpub.com/product/machine-learning-for-algorithmic-trading-second-edition/9781839217715) (Stock Market Basics{[I](https://www.wintwealth.com/blog/understanding-the-mechanism-of-how-the-stock-market-works/) , [II](https://www.investopedia.com/articles/investing/082614/how-stock-market-works.asp) & [III](https://www.omscs-notes.com/machine-learning-trading/market-mechanics)} & [Algo Trading Basics](https://www.investopedia.com/articles/active-trading/101014/basics-algorithmic-trading-concepts-and-examples.asp))            
 [Developing HFT Systems](https://www.packtpub.com/product/developing-high-frequency-trading-systems/9781803242811)    
 [Forex Trading](https://www.packtpub.com/product/getting-started-with-forex-trading-using-python/9781804616857)        
