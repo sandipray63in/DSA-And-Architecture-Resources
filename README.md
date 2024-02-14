@@ -25,7 +25,7 @@ Some good DSA Resources -
 [Algorithms And Data Structures for Massive Datasets](https://www.amazon.in/Algorithms-Data-Structures-Massive-Datasets/dp/1617298034/ref=mp_s_a_1_3?crid=32CY9AP8E7IJP&keywords=algorithms+and+data+structures+for+massive+datasets&qid=1698376584&sprefix=algorithms+and+data+structures+for+massive+%2Caps%2C223&sr=8-3)       
 [Probabilistic Data Structures and Algorithms for Big Data Applications](https://www.amazon.in/Probabilistic-Data-Structures-Algorithms-Applications/dp/3748190484/ref=mp_s_a_1_3?crid=1AD7631FNF8NP&keywords=probabilistic+data+structures&qid=1698376885&sprefix=probabilistic+data+structures%2Caps%2C215&sr=8-3)       
 [Combinatorial Optimization](https://en.m.wikipedia.org/wiki/Combinatorial_optimization)(check "Specific problems")([Google OR Tools](https://developers.google.com/optimization))       
-[Computational Geometry](https://en.wikipedia.org/wiki/Computational_geometry) ([The Bible of CG](https://link.springer.com/book/10.1007/978-3-540-77974-2), [Geometry for Programmers](https://www.manning.com/books/geometry-for-programmers) & [Computational Geometry in Python](https://deeplearning.lipingyang.org/computational-geometry-in-python/))       
+[Computational Geometry](https://en.wikipedia.org/wiki/Computational_geometry) ([The Bible of CG](https://link.springer.com/book/10.1007/978-3-540-77974-2), [Math for (physical) Security](https://nostarch.com/math-security), [Geometry for Programmers](https://www.manning.com/books/geometry-for-programmers) & [Computational Geometry in Python](https://deeplearning.lipingyang.org/computational-geometry-in-python/))       
       
 Some Good Software Architecture(& System Design & Software Engineering) Resources In General -     
 [Good Resources for Developers](https://www.linkedin.com/posts/sandip-ray-1b5531b4_some-free-good-resources-for-developers-activity-7043874395898986496-bYFe?utm_source=share&utm_medium=member_ios)     
@@ -152,6 +152,7 @@ Some Good DataScience/AI/ML/DL(or related) Resources -
 [Multiple View Geometry in Computer Vision](https://www.robots.ox.ac.uk/~vgg/hzbook/)        
 [Some Computer Vision Applications](https://machinelearningmastery.com/applications-of-deep-learning-for-computer-vision/)            
 [Intelligent Document Processing with AWS AI/ML](https://github.com/PacktPublishing/Intelligent-Document-Processing-with-AWS-AI-ML-)         
+[The Shape of Data](https://nostarch.com/shapeofdata)    
 [Enterprise GenAI](https://www.amazon.in/Enterprise-GENERATIVE-Architected-Framework-Patterns-ebook/dp/B0CJ6J4F75)     
 [RAG](https://aws.amazon.com/what-is/retrieval-augmented-generation/)       
 [Gray's Anatomy of GenAI](https://www.oreilly.com/library/view/generative-deep-learning/9781098134174/)        
