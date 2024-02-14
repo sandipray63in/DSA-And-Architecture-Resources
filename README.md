@@ -179,7 +179,9 @@ Some Good IoT Resources -
 [Hands On Network Programming with .NET Core](https://www.packtpub.com/product/hands-on-network-programming-with-c-and-net-core/9781789340761)     
 [Some good RTOS Courses](https://www.udemy.com/user/kiran-nayak-2/)   
 [Edge Computing Systems Deployment with K8s](https://www.packtpub.com/product/edge-computing-systems-with-kubernetes/9781800568594)           
-[IoT Edge Computing Deployment with Micro K8s](https://www.packtpub.com/product/iot-edge-computing-with-microk8s/9781803230634)          
+[IoT Edge Computing Deployment with Micro K8s](https://www.packtpub.com/product/iot-edge-computing-with-microk8s/9781803230634)     
+[Smart Grid Technologies & Applications](https://download.e-bookshelf.de/download/0000/5963/21/L-G-0000596321-0002363645.pdf)      
+[Smart Cities & Construction Technologies](https://library.oapen.org/bitstream/handle/20.500.12657/43842/external_content.pdf;sequence=1)         
       
      
 N.B. -> If anyone is interested in learning Finance at it's core, then one can refer [Khan Academy's Free Finance And Capital Markets Course](https://www.khanacademy.org/economics-finance-domain/core-finance)           
