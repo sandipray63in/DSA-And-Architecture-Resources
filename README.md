@@ -29,7 +29,7 @@ Some good DSA Resources -
        N.B, -> Combinatorial problems can be divided into -        
           a) Whether some permutation/combination of things is possible or not.                     
           b) If possible, what are all the permutations/combinations possible.                
-          c) Amongst all the possible permutations/combinations, what's the best(e.g. min or max) or may need to layout the sorted order of permutations/combinations, based on some criteria.             
+          c) Amongst all the possible permutations/combinations, what's the best(e.g. min or max) or may need to layout the sorted order of permutations/combinations, based on some criteria(& that's what Combinatorial Optimization deals with).                 
 
       
 Some Good Software Architecture(& System Design & Software Engineering) Resources In General -     
