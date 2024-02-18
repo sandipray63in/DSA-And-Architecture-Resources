@@ -105,7 +105,7 @@ Some Good Data Engineering Resources -
 [Making Sense of Streaming](https://martin.kleppmann.com/2016/05/24/making-sense-of-stream-processing.html)       
 [Streaming Data Mesh](https://www.oreilly.com/library/view/streaming-data-mesh/9781098130718/)      
 [Grokking Streaming Systems](https://www.manning.com/books/grokking-streaming-systems)     
-[Hadoop Ecosystem Table](https://hadoopecosystemtable.github.io/)          
+[Hadoop Ecosystem Table](https://hadoopecosystemtable.github.io/)([Apache Hadoop Docs](https://hadoop.apache.org/docs/stable/), [Apache Spark Docs](https://spark.apache.org/docs/latest/) & [Apache Flink Docs](https://nightlies.apache.org/flink/flink-docs-stable/))
   
      
 Some Good DataScience/AI/ML/DL(or related) Resources -    
