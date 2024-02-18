@@ -122,7 +122,7 @@ Some Good DataScience/AI/ML/DL(or related) Resources -
 [Evolution Strategies](https://machinelearningmastery.com/evolution-strategies-from-scratch-in-python/)([DEAP](https://github.com/DEAP/deap) & [GENETIC AND EVOLUTIONARY ALGORITHMS VERSUS CLASSICAL OPTIMIZATION](https://www.solver.com/press/backgrounder-genetic-and-evolutionary-algorithms-versus-classical-optimization))         
 [Optimization Algos](https://algorithmsbook.com/optimization/)           
 [Convex Optimization Algos](https://convex-optimization.github.io/)   
-[Information Theory, Inference & Learning Algos](https://www.amazon.in/Information-Theory-Inference-Learning-Algorithms/dp/0521642981)([Khan Academy's Information Theory](https://www.khanacademy.org/computing/computer-science/informationtheory))    
+[Information Theory, Inference & Learning Algos](https://www.amazon.in/Information-Theory-Inference-Learning-Algorithms/dp/0521642981)([Khan Academy's Information Theory course](https://www.khanacademy.org/computing/computer-science/informationtheory))    
 [Dipanjan Sarkar's Books](https://www.amazon.in/stores/Dipanjan%20Sarkar/author/B01M100PAR)     
 [AWS ML Speciality Certification Guide](https://www.packtpub.com/product/aws-certified-machine-learning-specialty-mls-c01-certification-guide/9781800569003)   
 [Classical ML Algos](https://www.packtpub.com/authors/giuseppe-bonaccorso)      
