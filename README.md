@@ -191,7 +191,7 @@ Some Good DataScience/AI/ML/DL(or related) Resources -
 [Best Data Science Interview Books](https://www.acethedatascienceinterview.com/best-data-science-interview-books)            
      
        
-Some Good IoT Resources -      
+Some Good IoT(& Robotics {to a little extent}) Resources -      
 [IoT & Edge Computing for Architects](https://www.packtpub.com/product/iot-and-edge-computing-for-architects-second-edition/9781839214806)         
 [Architectural Patterns And Techniques for Developing IoT Solutions](https://www.packtpub.com/product/architectural-patterns-and-techniques-for-developing-iot-solutions/9781803245492)    
 [Embedded Systems Architecture](https://www.packtpub.com/product/embedded-systems-architecture-second-edition/9781803239545)       
@@ -203,6 +203,8 @@ Some Good IoT Resources -
 [Bentley Systems' itwin](https://www.businesswire.com/news/home/20221115005145/en/Bentley-Systems-Launches-iTwin-Experience-iTwin-Capture-and-iTwin-IoT-to-Extend-iTwin-Platform)([Bentley Systems' Learning Courses](https://www.bentley.com/support/learn/), [itwin.js](https://www.itwinjs.org/), [Building Industrial Digital Twins](https://www.packtpub.com/product/building-industrial-digital-twins/9781839219078) & [Hands-On Azure Digital Twins](https://www.packtpub.com/product/hands-on-azure-digital-twins/9781801071383))   
 [Smart Grid Technologies & Applications](https://download.e-bookshelf.de/download/0000/5963/21/L-G-0000596321-0002363645.pdf)      
 [Smart Cities & Construction Technologies](https://library.oapen.org/bitstream/handle/20.500.12657/43842/external_content.pdf;sequence=1)([Managing & Visualizing your BIM Data](https://www.packtpub.com/product/managing-and-visualizing-your-bim-data/9781801073981?_gl=1*1akd27g*_gcl_au*MTE5NDQ3NTYwMy4xNzA3MDI4MDkz*_ga*MTA2OTA0NTM2OS4xNzA3MDI4MDkz*_ga_Q4R8G7SJDK*MTcwNzg4OTgwNi4xMC4xLjE3MDc4ODk4MTkuNDcuMC4w))      
+[Robotics for Programmers](https://www.manning.com/books/robotics-for-programmers)        
+[Computational Principles of Mobile Robotics](https://www.cambridge.org/highereducation/books/computational-principles-of-mobile-robotics/1B95CF7C2827277A0E4040EE5B2BC542#overview)       
       
      
 N.B. -> If anyone is interested in learning Finance at it's core, then one can refer [Khan Academy's Free Finance And Capital Markets Course](https://www.khanacademy.org/economics-finance-domain/core-finance)           
