@@ -150,7 +150,7 @@ Some Good DataScience/AI/ML/DL(or related) Resources -
 [Computational/Programmatic Advertising](https://www.udemy.com/course/programmatic-advertising-master-course/)    
 [Hands-on ML](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)   \
 [Knowledge Representation](https://www.mkbergman.com/)(check the book "A Knowledge Representation Practionary")         
-[Grokking Deep Learning](https://www.manning.com/books/grokking-deep-learning)   
+[Grokking Deep Learning](https://www.manning.com/books/grokking-deep-learning)(people from Electronics{& Communication} background might have had a subject called Feedback Control Systems/Theory & the concepts in that subject is also quite similar to Forward/Back Propagation)        
 [Dive Into Depp Learning](https://d2l.ai/)       
 [GNN:Libraries, Tools & Learning Resources](https://neptune.ai/blog/graph-neural-networks-libraries-tools-learning-resources)([Apache Spark Graph Docs](https://spark.apache.org/docs/latest/graphx-programming-guide.html) & [Apache Flink Graph Docs](https://nightlies.apache.org/flink/flink-docs-release-1.13/docs/libs/gelly/graph_api/))      
 [DL for Graphs](https://yaoma24.github.io/dlg_book/)        
