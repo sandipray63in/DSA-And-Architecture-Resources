@@ -193,7 +193,7 @@ Some Good DataScience/AI/ML/DL(or related) Resources -
 IISc DataScience/AI/ML/DL Online Courses - [Business Analytics](https://iisc.talentsprint.com/business-analytics/mobile/?utm_source=g_search&utm_medium=performance&utm_campaign=iisc-ba-g_search-performance-lower_funnel-exact-match&utm_source=g_search&utm_medium=paid_google&utm_campaign=iisc-ba-g_search-performance-lower-funnel&utm_content=iisc-ba-g_search-performance-lower-funnel-audience&utm_term=business%20analytics%20course&placement=&matchtype=b&device=c&network=g&gad_source=1&gclid=EAIaIQobChMIz8GXkIi5hAMVlatmAh0oOg_XEAAYASAAEgLr7vD_BwE), [Computational Data Science](https://talentsprint.com/course/computational-data-science-iisc-bangalore), [Deep Learning](https://talentsprint.com/course/deep-learning-iisc-bangalore), [Autonomous Systems](https://talentsprint.com/course/machine-learning-ai-autonomous-systems-iisc-bangalore) & [MLOps](https://talentsprint.com/course/ai-mlops-iisc-bangalore)        
      
        
-Some Good IoT(& Robotics {to a little extent}) Resources -      
+Some Good IoT(& Robotics {to some extent}) Resources -      
 [IoT & Edge Computing for Architects](https://www.packtpub.com/product/iot-and-edge-computing-for-architects-second-edition/9781839214806)         
 [Architectural Patterns And Techniques for Developing IoT Solutions](https://www.packtpub.com/product/architectural-patterns-and-techniques-for-developing-iot-solutions/9781803245492)    
 [Embedded Systems Architecture](https://www.packtpub.com/product/embedded-systems-architecture-second-edition/9781803239545)       
