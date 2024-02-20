@@ -33,7 +33,7 @@ Some good DSA Resources -
           c) Amongst all the possible permutations/combinations, what's the best(e.g. min or max) or may need to layout the sorted order of permutations/combinations, based on some criteria(& that's what Combinatorial Optimization deals with).                 
 
       
-Some Good Software Architecture(& System Design & Software Engineering) Resources In General -     
+Some Good Software Architecture(or related) Resources In General -     
 [Good Resources for Developers](https://www.linkedin.com/posts/sandip-ray-1b5531b4_some-free-good-resources-for-developers-activity-7043874395898986496-bYFe?utm_source=share&utm_medium=member_ios)     
 [Some Good Coding Katas](https://www.linkedin.com/posts/sandip-ray-1b5531b4_some-good-katas-resources-awesome-coding-activity-7109446174981443586-ds-_?utm_source=share&utm_medium=member)       
 [Clean Code And Architecture Cheatsheets](https://www.planetgeek.ch/tag/cheat-sheet/)         
@@ -131,7 +131,7 @@ Some Good DataScience/AI/ML/DL(or related) Resources -
 [Operations Research](https://www.amazon.in/Operations-Research-Applications-Algorithms-InfoTrac/dp/0534380581)([Operation Research Problems](https://link.springer.com/book/10.1007/978-1-4471-5577-5) & [Pyomo Book](https://link.springer.com/book/10.1007/978-3-030-68928-5))     
 [Evolution Strategies](https://machinelearningmastery.com/evolution-strategies-from-scratch-in-python/)([DEAP](https://github.com/DEAP/deap) & [GENETIC AND EVOLUTIONARY ALGORITHMS VERSUS CLASSICAL OPTIMIZATION](https://www.solver.com/press/backgrounder-genetic-and-evolutionary-algorithms-versus-classical-optimization))         
 [Cognizant's Evolutionary AI](https://evolution.ml/)            
-[Optimization Algos](https://algorithmsbook.com/optimization/)           
+Optimization Algos([I](https://www.manning.com/books/optimization-algorithms)& [II](https://algorithmsbook.com/optimization/)           
 [Convex Optimization Algos](https://convex-optimization.github.io/)   
 [Information Theory, Inference & Learning Algos](https://www.amazon.in/Information-Theory-Inference-Learning-Algorithms/dp/0521642981)([Khan Academy's Information Theory course](https://www.khanacademy.org/computing/computer-science/informationtheory))    
 [Dipanjan Sarkar's Books](https://www.amazon.in/stores/Dipanjan%20Sarkar/author/B01M100PAR)     
