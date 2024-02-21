@@ -12,7 +12,7 @@ Some good DSA Resources -
 [Modern C# Challenge](https://www.amazon.in/Modern-Challenge-programmer-interesting-programming-ebook/dp/B07GYLLWVN/ref=mp_s_a_1_3?crid=AM7LJ9KESQWU&keywords=modern+c%23+challenge&qid=1698376715&sprefix=modern+c%23+challenge%2Caps%2C257&sr=8-3)    
 [Essential Algorithms](https://www.amazon.in/gp/aw/d/B07SD76KLH/ref=tmm_kin_swatch_0?ie=UTF8&qid=1698376308&sr=8-3)         
 [Data Structures And Algorithms Made Easy in Java](https://www.amazon.in/Data-Structures-Algorithms-Made-Easy-ebook/dp/B08CMHNPSH/ref=mp_s_a_1_4?crid=1AN17OBJF10BG&keywords=data+structures+and+algorithms+made+easy+in+java&nsdOptOutParam=true&qid=1698376784&sprefix=algorithms+made+easy+in+java%2Caps%2C222&sr=8-4)     
-[Graph Algos](https://code.google.com/archive/p/graphbook)(probably one of the best free Graph Algos resource - when you extend such algos to distributed settings, what you get is frameworks like Spark GraphX, Neo4j GDL etc)       
+Graph [Algos](https://code.google.com/archive/p/graphbook) & [Applications](https://memgraph.com/blog/graph-algorithms-applications)(when you extend such algos to distributed settings, what you get is frameworks like Spark GraphX, Neo4j GDL etc & then can apply such frameworks for large scale Graph Apps)         
     [Leetcode List of questions sorted by common patterns.](https://leetcode.com/discuss/career/448285/List-of-questions-sorted-by-common-patterns)     
 [Recursive Practice Problems with Solutions](https://www.geeksforgeeks.org/recursion-practice-problems-solutions/)    
 [Dynamic Programming Intro](https://algo.monster/problems/dynamic_programming_intro)      
