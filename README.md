@@ -24,7 +24,7 @@ Graph [Algos](https://code.google.com/archive/p/graphbook) & [Applications](http
 [Art of Randomness](https://nostarch.com/art-randomness)      
 [Advanced Algorithms And Data Structures](https://www.amazon.in/gp/aw/d/B098C4MKF5/ref=tmm_kin_swatch_0?ie=UTF8&qid=1698376485&sr=8-5)        
 [Algorithms And Data Structures for Massive Datasets](https://www.amazon.in/Algorithms-Data-Structures-Massive-Datasets/dp/1617298034/ref=mp_s_a_1_3?crid=32CY9AP8E7IJP&keywords=algorithms+and+data+structures+for+massive+datasets&qid=1698376584&sprefix=algorithms+and+data+structures+for+massive+%2Caps%2C223&sr=8-3)       
-[Probabilitic Data Structures For Web Analytics & Data Mining](https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/)([Probabilistic Data Structures and Algorithms for Big Data Applications](https://www.amazon.in/Probabilistic-Data-Structures-Algorithms-Applications/dp/3748190484/ref=mp_s_a_1_3?crid=1AD7631FNF8NP&keywords=probabilistic+data+structures&qid=1698376885&sprefix=probabilistic+data+structures%2Caps%2C215&sr=8-3))                
+[Probabilistic Data Structures For Web Analytics & Data Mining](https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/)([Probabilistic Data Structures and Algorithms for Big Data Applications](https://www.amazon.in/Probabilistic-Data-Structures-Algorithms-Applications/dp/3748190484/ref=mp_s_a_1_3?crid=1AD7631FNF8NP&keywords=probabilistic+data+structures&qid=1698376885&sprefix=probabilistic+data+structures%2Caps%2C215&sr=8-3))                
 [Computational Geometry](https://en.wikipedia.org/wiki/Computational_geometry) ([The Bible of CG](https://link.springer.com/book/10.1007/978-3-540-77974-2), [Math for (physical) Security](https://nostarch.com/math-security), [Geometry for Programmers](https://www.manning.com/books/geometry-for-programmers) & [Computational Geometry in Python](https://deeplearning.lipingyang.org/computational-geometry-in-python/))       
 [Combinatorial Optimization](https://en.m.wikipedia.org/wiki/Combinatorial_optimization)(check "Specific problems") & [Google OR Tools](https://developers.google.com/optimization)              
        N.B, -> Combinatorial problems can be divided into -        
@@ -151,7 +151,7 @@ Optimization Algos([I](https://www.manning.com/books/optimization-algorithms)& [
 [Computational/Programmatic Advertising](https://www.udemy.com/course/programmatic-advertising-master-course/)    
 [Hands-on ML](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)   \
 [Knowledge Representation](https://www.mkbergman.com/)(check the book "A Knowledge Representation Practionary")         
-[Grokking Deep Learning](https://www.manning.com/books/grokking-deep-learning)
+[Grokking Deep Learning](https://www.manning.com/books/grokking-deep-learning)       
 [Dive Into Depp Learning](https://d2l.ai/)       
 [GNN:Libraries, Tools & Learning Resources](https://neptune.ai/blog/graph-neural-networks-libraries-tools-learning-resources)([Apache Spark Graph Docs](https://spark.apache.org/docs/latest/graphx-programming-guide.html) & [Apache Flink Graph Docs](https://nightlies.apache.org/flink/flink-docs-release-1.13/docs/libs/gelly/graph_api/))      
 [DL for Graphs](https://yaoma24.github.io/dlg_book/)        
