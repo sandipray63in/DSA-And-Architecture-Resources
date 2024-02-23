@@ -69,6 +69,7 @@ Some Good Software Architecture(or related) Resources In General -
 [One Page Cloud Offerings Comparison Site](https://comparecloud.in)        
 [Open Banking](https://www.softwareag.com/en_corporate/resources/api/article/open-banking.html)([Natwest's Bank of APIs](https://www.bankofapis.com/products))      
 [Developer Portal](https://document360.com/blog/api-developer-portal-examples/) & [API OnBoarding Experiences](https://blog.postman.com/top-25-api-onboarding-experiences/)  
+[Privacy Enhancing Technologies(PETs)](https://en.m.wikipedia.org/wiki/Privacy-enhancing_technologies)        
 [Synopsis' Software Security Principles Course](https://www.synopsys.com/software-integrity/training/software-security-courses/software-security-principles.html) (can check for other security trainings from Synopsys as well)        
 [OAuth Made Easy](https://www.oauth.com/)        
 [Official OAuth Docs](https://oauth.net/2/)  
@@ -99,7 +100,7 @@ Some Good Software Architecture(or related) Resources In General -
 [Distributed Systems Design Hints](https://muratbuffalo.blogspot.com/2023/10/hints-for-distributed-systems-design.html)    
 [Intro to Parallel Computing](https://www.amazon.in/gp/aw/d/8131708071/ref=ox_sc_act_image_1?smid=AJEL1QPE94YMX&psc=1)       
 [System Design White Papers](https://interviewready.io/blog/white-papers-worth-reading-for-software-engineers)      
-[Best Engineering Blogs](https://draft.dev/learn/engineering-blogs)      
+Best Engineering Blogs([I] (https://draft.dev/learn/engineering-blogs) & ([II](https://blog.bytebytego.com/p/79-engineering-blogs-to-level-up)      
 
 
 Some Good Data Engineering Resources -      
@@ -159,6 +160,8 @@ Optimization Algos([I](https://www.manning.com/books/optimization-algorithms)& [
 [Guide to Recommendation System](https://stratoflow.com/guide-to-recommendation-system/)         
 [Recommendation System Resources](https://stratoflow.com/best-books-on-machine-learning-recommender-systems/)    
 [Ranking Algos](https://towardsdatascience.com/introduction-to-ranking-algorithms-4e4639d65b8?gi=11367860a302#:~:text=Learning%20to%20rank%20(LTR)%20is,based%20on%20a%20feature%20vector.)       
+[AI for Bot Detection](https://medium.com/peaksys-engineering/eliminating-fraudulent-bot-traffic-with-ai-894a6ae7a301)        
+[Fake User Profile Detection](https://www.scirp.org/journal/paperinformation?paperid=120727)         
 [ML for Text](https://www.packtpub.com/product/machine-learning-techniques-for-text/9781803242385)     
 [Representation Learning for NLP](https://library.oapen.org/handle/20.500.12657/76271)        
 [Speech & Language Processing](https://web.stanford.edu/~jurafsky/slp3/)             
