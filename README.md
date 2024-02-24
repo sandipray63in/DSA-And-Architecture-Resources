@@ -105,7 +105,7 @@ Some Good Software Architecture(or related) Resources In General -
 [Intro to Parallel Computing](https://www.amazon.in/gp/aw/d/8131708071/ref=ox_sc_act_image_1?smid=AJEL1QPE94YMX&psc=1)       
 [System Design White Papers](https://interviewready.io/blog/white-papers-worth-reading-for-software-engineers)      
 Best Engineering Blogs([I](https://draft.dev/learn/engineering-blogs) & [II](https://blog.bytebytego.com/p/79-engineering-blogs-to-level-up))      
-For UI/UX, refer [Academind Courses](https://academind.com/), [Accessibility in UX Design](https://www.ramotion.com/blog/accessibility-in-ux-design/) & [Figma](https://www.figma.com/)([A Figma Text])(https://www.packtpub.com/product/designing-and-prototyping-interfaces-with-figma-second-edition/9781835464601)         
+For UI/UX, refer [Academind Courses](https://academind.com/), [Accessibility in UX Design](https://www.ramotion.com/blog/accessibility-in-ux-design/) & [Figma](https://www.figma.com/)([A Figma Text](https://www.packtpub.com/product/designing-and-prototyping-interfaces-with-figma-second-edition/9781835464601))               
 
 
 Some Good Data Engineering Resources -      
