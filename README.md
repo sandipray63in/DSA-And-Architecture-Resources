@@ -187,7 +187,7 @@ Some Good DataScience/AI/ML/DL(or related) Resources -
 39) [Representation Learning for NLP](https://library.oapen.org/handle/20.500.12657/76271)        
 40) [Speech & Language Processing](https://web.stanford.edu/~jurafsky/slp3/)             
 41) [Some NLP Applications](https://machinelearningmastery.com/applications-of-deep-learning-for-natural-language-processing/)     
-42) [Sandipan Dey's Image Processing Books](https://www.amazon.in/Books-Sandipan-Dey/s?rh=n%3A976389031%2Cp_27%3ASandipan+Dey)   
+42) [Sandipan Dey's Image Processing Books](https://www.amazon.in/Books-Sandipan-Dey/s?rh=n%3A976389031%2Cp_27%3ASandipan+Dey)([Graoh Theory Apps In Image Processing](https://medium.com/geekculture/a-note-on-graph-theory-applications-in-image-processing-flood-fill-image-segmentation-palette-68a7957aed8c))           
 43) [Modern Computer Vision](https://www.packtpub.com/product/modern-computer-vision-with-pytorch/9781839213472)     
 44) [PyImageSearch Courses & Books](https://pyimagesearch.com/books-and-courses/)      
 45) [ML for Computer Vision](https://www.oreilly.com/library/view/practical-machine-learning/9781098102357/)        
