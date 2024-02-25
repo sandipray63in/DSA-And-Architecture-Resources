@@ -136,7 +136,7 @@ Some Good Data Engineering Resources -
 10) [Architecting Data Intensive Applications](https://www.oreilly.com/library/view/architecting-data-intensive-applications/9781786465092/)      
 11) [Deciphering Data Architectures](https://www.jamesserra.com/archive/2023/11/all-the-chapters-in-my-data-architecture-book-are-now-available/)           
 12) [Fundamentals of Data Engineering](https://www.oreilly.com/library/view/fundamentals-of-data/9781098108298/)       
-13) [Fundamentals of DataViz](https://clauswilke.com/dataviz/)([Some other free DataViz Texts](https://newprediction.com/free-data-visualization-books/) & [Visualizing Graph Data](https://www.manning.com/books/visualizing-graph-data)      
+13) [Fundamentals of DataViz](https://clauswilke.com/dataviz/)([Some other free DataViz Texts](https://newprediction.com/free-data-visualization-books/) & [Visualizing Graph Data](https://www.manning.com/books/visualizing-graph-data))            
 14) [Designing Data Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)     
 15) [Database Internals](https://www.databass.dev)    
 16) [In-Stream Big Data Processing](https://highlyscalable.wordpress.com/2013/08/20/in-stream-big-data-processing/)       
