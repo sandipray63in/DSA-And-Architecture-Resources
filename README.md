@@ -68,9 +68,8 @@ Some Good Software Architecture(or related) Resources In General -
 21) [Enterprise DevOps For Architects](https://www.packtpub.com/product/enterprise-devops-for-architects/9781801812153)     
 22) [DevSecOps And SRE](https://www.linkedin.com/pulse/point-view-devsecops-sre-key-asks-considerations-balaji-ramarajan-rbb8c?utm_source=share&utm_medium=member_ios&utm_campaign=share_via)      
 23) [Policy Design](https://www.packtpub.com/product/policy-design-in-the-age-of-digital-adoption/9781801811743)     
-24) [Some Free Azure Resources](https://blog.stefanomapelli.com/)        
-25) [Infrastructure IT Patterns](https://www.researchgate.net/publication/230579393_Patterns_for_IT_Infrastructure_Design)
-26) [Multi Tenant SaaS](https://prashanthpanduranga.wordpress.com/2015/03/25/inevitability-of-multi-tenancy-saas-in-product-engineering/)
+24) [Some Free Azure Resources](https://blog.stefanomapelli.com/)
+25) [Multi Tenant SaaS](https://prashanthpanduranga.wordpress.com/2015/03/25/inevitability-of-multi-tenancy-saas-in-product-engineering/)
 27) [ASP.NET Multi-Tenant Applications Succinctly](https://www.syncfusion.com/succinctly-free-ebooks/aspnet-multitenant-applications-succinctly)       
 28) [MultiTenancy Using K8s](https://kubernetes.io/docs/concepts/security/multi-tenancy/)        
 29) [Another good "MultiTenancy Using K8s" Resource](https://www.cncf.io/blog/2022/11/09/multi-tenancy-in-kubernetes-implementation-and-optimization/)       
@@ -118,8 +117,7 @@ Some Good Software Architecture(or related) Resources In General -
 71) For UI/UX, refer [Academind Courses](https://academind.com/), [Accessibility in UX Design](https://www.ramotion.com/blog/accessibility-in-ux-design/) & [Figma](https://www.figma.com/)([A Figma Text](https://www.packtpub.com/product/designing-and-prototyping-interfaces-with-figma-second-edition/9781835464601))        
 72) MarTech - [MS Dynamics 365 Extensions Cookbook](https://www.packtpub.com/product/microsoft-dynamics-365-extensions-cookbook/9781786464170), [MS Power Platform Solutions Architect Handbook](https://www.packtpub.com/product/microsoft-power-platform-solution-architects-handbook/9781801819336), [MS Power Platform Enterprise Architecture](https://www.packtpub.com/product/microsoft-power-platform-enterprise-architecture-second-edition/9781804612637) & [AEP Architecture](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/aem-vs-aep/m-p/354645)           
 73) [Contact Centre Reference Architectures](https://learn.microsoft.com/en-us/digital-contact-center-platform/guidance/reference-architecture-overview)([VoIP vs PBX](https://getvoip.com/blog/voip-vs-pbx/), [OpenSIPS vs FreeSwitch](https://stackoverflow.com/questions/22982501/opensips-or-freeswitch) & [Kamailio vs Asterisk](https://nickvsnetworking.com/kamailio-vs-asterisk/))         
-74) Although not related to any Architecture directly in general but [Adobe Document Cloud](https://www.udemy.com/course/mastering-adobe-acrobat-pro-dc-made-easy-training-tutorial/?couponCode=LETSLEARNNOWPP) is pretty good  w.r.t anything related to documents.          
-75) [Awesome OpenTelemetry](https://github.com/magsther/awesome-opentelemetry?tab=readme-ov-file#books)   
+74) [Awesome OpenTelemetry](https://github.com/magsther/awesome-opentelemetry?tab=readme-ov-file#books)   
 
 
 
