@@ -40,7 +40,7 @@ Some good DSA Resources -
            2 great open source frameworks one can refer for Maps are -           
     a) [OpenStreetMap - especially needed to build the single layer map](https://wiki.openstreetmap.org/)         
             [Some great OpenStreetMap Apps](https://opensource.com/article/17/8/openstreetmap)        
-            2 seems-to-be good OpenStreetMap texts viz. [I](http://www.openstreetmap.info/) & [II](https://www.packtpub.com/product/openstreetmap/9781847197504?_gl=1*cf3h8b*_gcl_au*MTQ0Mjc5MjI4OS4xNzAzNzc4OTgw*_ga*NjA5MDQzNzAxLjE2OTU2MjUzNDg.*_ga_Q4R8G7SJDK*MTcwODc0MjU1OS4yMC4xLjE3MDg3NTQzOTUuNDYuMC4w))        
+            2 seems-to-be good OpenStreetMap texts viz. [I](http://www.openstreetmap.info/) & [II](https://www.packtpub.com/product/openstreetmap/9781847197504?_gl=1*cf3h8b*_gcl_au*MTQ0Mjc5MjI4OS4xNzAzNzc4OTgw*_ga*NjA5MDQzNzAxLjE2OTU2MjUzNDg.*_ga_Q4R8G7SJDK*MTcwODc0MjU1OS4yMC4xLjE3MDg3NTQzOTUuNDYuMC4w)             
     b) [OpenLayers - especially needed for overlaying of maps](https://openlayers.org/en/latest/examples/localized-openstreetmap.html)       
         [Awesome Open Layers](https://github.com/webgeodatavore/awesome-openlayers)           
 18) [Combinatorial Optimization](https://en.m.wikipedia.org/wiki/Combinatorial_optimization)(check "Specific problems") & [Google OR Tools](https://developers.google.com/optimization)              
