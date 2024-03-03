@@ -65,7 +65,7 @@ Some Good Software Architecture(or related) Resources In General -
 17) [Model Driven Enterprise Architecture](https://www.packtpub.com/product/practical-model-driven-enterprise-architecture/9781801076166)         
 18) [Diagramming Tools](https://www.linkedin.com/posts/sandip-ray-1b5531b4_text-to-uml-and-other-diagrams-as-code-activity-7020239747646189568-m5dg?utm_source=share&utm_medium=member_ios)       
 19) [Solution Architect's Handbook](https://www.packtpub.com/product/solutions-architects-handbook-second-edition/9781801816618)
-20) [Global System Design Challenges](https://www.linkedin.com/advice/1/what-biggest-challenges-designing-global-system)(AWS{[I](https://aws.amazon.com/blogs/architecture/architecting-for-reliable-scalability/), [II](https://stackoverflow.com/questions/67380790/aws-services-and-regions) & [III](https://jayendrapatil.com/aws-global-vs-regional-vs-az-resources/)} & [Azure](https://azure.microsoft.com/en-in/explore/global-infrastructure)}     
+20) [Global System Design Considerations/Challenges](https://www.linkedin.com/advice/1/what-biggest-challenges-designing-global-system)(AWS{[I](https://aws.amazon.com/blogs/architecture/architecting-for-reliable-scalability/), [II](https://stackoverflow.com/questions/67380790/aws-services-and-regions) & [III](https://jayendrapatil.com/aws-global-vs-regional-vs-az-resources/)} & [Azure](https://azure.microsoft.com/en-in/explore/global-infrastructure)}     
 21) [RPA Solution Architect's Handbook](https://www.packtpub.com/product/rpa-solution-architects-handbook/9781803249605)([UseCases/Examples of Intelligent Automation](https://research.aimultiple.com/intelligent-automation-examples/))       
 22) [Architecture of Open Source Applications](https://aosabook.org/en/index.html)     
 23) [Enterprise DevOps For Architects](https://www.packtpub.com/product/enterprise-devops-for-architects/9781801812153)     
@@ -83,7 +83,7 @@ Some Good Software Architecture(or related) Resources In General -
 35) [One Page Cloud Offerings Comparison Site](https://comparecloud.in)        
 36) [Open Banking](https://www.softwareag.com/en_corporate/resources/api/article/open-banking.html)([Natwest's Bank of APIs](https://www.bankofapis.com/products))      
 37) [Developer Portal](https://document360.com/blog/api-developer-portal-examples/) & [API OnBoarding Experiences](https://blog.postman.com/top-25-api-onboarding-experiences/)  
-38) [Loyalty Programs via Gamification](https://antavo.com/blog/gamification-in-loyalty-programs/)(Loyalty Programs([I](https://clevertap.com/blog/customer-loyalty-program-examples/) & [II](https://www.shopify.com/in/blog/loyalty-program))      
+38) [Loyalty Programs via Gamification](https://antavo.com/blog/gamification-in-loyalty-programs/)(Loyalty Programs{[I](https://clevertap.com/blog/customer-loyalty-program-examples/) & [II](https://www.shopify.com/in/blog/loyalty-program)})           
 39) [Privacy Enhancing Technologies(PETs)](https://en.m.wikipedia.org/wiki/Privacy-enhancing_technologies)        
 40) [Synopsis' Software Security Principles Course](https://www.synopsys.com/software-integrity/training/software-security-courses/software-security-principles.html) (can check for other security trainings from Synopsys as well)        
 41) [OAuth Made Easy](https://www.oauth.com/)        
