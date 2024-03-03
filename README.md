@@ -3,11 +3,7 @@
 Before anything else, some suggestions -     
 1) You need not buy all the paid[$$$] resources & maybe for some paid resources, can go through the Toch{Table of Contents} & do some googling of the topics mentioned in the Toc or can go through the github page{if available} corresponding to the paid resource or can try both.But on the flip side w.r.t ToC, you may miss something crucial not mentioned in the ToC.        
 2) If there is some academic or industrial text reference and not able to understand most of the things in that text, try searching for notes relevant to that text.
-3) Don’t get overwhelmed by the number of resources mentioned below(that's ATLEAST 1k times trimmed down version of the number of relevant resources available over the internet).Take your own time & learn things at your own pace.
-
-          
-How to Learn any New Technology -      
-https://www.linkedin.com/posts/sandip-ray-1b5531b4_how-to-learn-a-new-itsoftware-related-technology-activity-6434621227041644544-FHzd?utm_source=share&utm_medium=member_ios                   
+3) Don’t get overwhelmed by the number of resources mentioned below(that's ATLEAST 1k times trimmed down version of the number of relevant resources available over the internet).Take your own time & learn things at your own pace.                       
                 
 Some good DSA Resources -     
 1) [Modern C# Challenge](https://www.amazon.in/Modern-Challenge-programmer-interesting-programming-ebook/dp/B07GYLLWVN/ref=mp_s_a_1_3?crid=AM7LJ9KESQWU&keywords=modern+c%23+challenge&qid=1698376715&sprefix=modern+c%23+challenge%2Caps%2C257&sr=8-3)    
