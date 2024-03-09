@@ -154,7 +154,8 @@ Some Good Data Engineering Resources -
 23) [Practical Data Migration](https://www.amazon.in/Practical-Data-Migration-Johny-Morris/dp/1780175140/ref=mp_s_a_1_1?crid=JAD4HGGPQ2BY&dib=eyJ2IjoiMSJ9.cTQo27VSpM8NN46ZhtmzEO_QAM_sCApYPZhtSIWupPetn55mnbPlO-7einvv8-iq0N2R2Ct17ouXabu6z37uL5FyINZ8q2gK6uvHplyl2BnXPnI0lshj0mPULmwJ7leCkzNm4akwh3VvVtSLijPdDleZkz_bREP0qWoEaEK0hjomzLM_7rwj_0bLiki8WsjYqrEICkpAYEvsbTVoEQwe3w.rlwuSio_LOLu2lUJEeowk999-RKovxZQLsepuRn1-N0&dib_tag=se&keywords=practical+data+migration&qid=1709953406&sprefix=practical+data+migration%2Caps%2C249&sr=8-1) & [ECM Migration](https://blogs.opentext.com/the-secret-sauce-of-the-document-migration-process/amp/) - Basically for any type of (huge) Data Migration, should use E(T)L tools(custom-built or OSS/Free or COTS) with capabilities like -         
    a) Good Observability        
    b) Good Resiliency         
-   c) Validating correctness of source & destination data(after migration), maybe using counts, hashes etc         
+   c) Validating correctness of source & destination data(after migration), maybe using counts, hashes etc     
+Although other NFRs(e.g. Security, Performance etc) can also be important based on contextual requirements, but the above 3 NFRs are kind of bare minimum needed in most Data Migration projects.        
 
             
 
