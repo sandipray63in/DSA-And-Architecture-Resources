@@ -155,7 +155,7 @@ Some Good Data Engineering Resources -
    a) Good Observability        
    b) Good Resiliency         
    c) Validating correctness of source & destination data(after migration), maybe using counts, hashes etc     
-Although other NFRs(e.g. Security, Performance etc) can also be important based on contextual requirements, but the above 3 NFRs are kind of bare minimum needed in most Data Migration projects.        
+Although other NFRs(e.g. Security, Performance etc) can also be important based on contextual requirements, but the above 3 NFRs are kind of bare minimum needed in most Data Migration projects(especially, if the Data volume is huge).         
 
             
 
