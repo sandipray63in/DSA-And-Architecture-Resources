@@ -150,7 +150,16 @@ Some Good Data Engineering Resources -
 19) [Streaming Data Mesh](https://www.oreilly.com/library/view/streaming-data-mesh/9781098130718/)      
 20) [Grokking Streaming Systems](https://www.manning.com/books/grokking-streaming-systems)     
 21) [Streaming Algos & Data Structures](https://gist.github.com/debasishg/8172796)        
-22) [Hadoop Ecosystem Table](https://hadoopecosystemtable.github.io/)(MapReduce Patterns {[I](https://github.com/geftimov/hadoop-map-reduce-patterns) & [II](https://highlyscalable.wordpress.com/2012/02/01/mapreduce-patterns/)}, [Apache Hadoop Docs](https://hadoop.apache.org/docs/stable/), [Apache Spark Docs](https://spark.apache.org/docs/latest/), [Apache Spark Optimization Techniques](https://www.google.com/search?q=apache+spark+optimization+techniques&rlz=1CDGOYI_enIN1078IN1078&oq=apache+spark+optimization+technqi&gs_lcrp=EgZjaHJvbWUqCQgBEAAYDRiABDIGCAAQRRg5MgkIARAAGA0YgAQyCAgCEAAYFhgeMggIAxAAGBYYHjINCAQQABiGAxiABBiKBTINCAUQABiGAxiABBiKBTIJCAYQIRgKGKABMgkIBxAhGAoYoAHSAQkxOTQzNmowajSoAgCwAgDiAwQYASBf&hl=en-GB&sourceid=chrome-mobile&ie=UTF-8), [Good Kafka Resources](https://www.confluent.io/blog/best-kafka-tutorials-examples-and-learning-resources/), [Apache Flink Docs](https://nightlies.apache.org/flink/flink-docs-stable/) & [Apache Flink Optimization Techniques](https://shopify.engineering/optimizing-apache-flink-applications-tips))       
+22) [Hadoop Ecosystem Table](https://hadoopecosystemtable.github.io/)(MapReduce Patterns {[I](https://github.com/geftimov/hadoop-map-reduce-patterns) & [II](https://highlyscalable.wordpress.com/2012/02/01/mapreduce-patterns/)}, [Apache Hadoop Docs](https://hadoop.apache.org/docs/stable/), [Apache Spark Docs](https://spark.apache.org/docs/latest/), [Apache Spark Optimization Techniques](https://www.google.com/search?q=apache+spark+optimization+techniques&rlz=1CDGOYI_enIN1078IN1078&oq=apache+spark+optimization+technqi&gs_lcrp=EgZjaHJvbWUqCQgBEAAYDRiABDIGCAAQRRg5MgkIARAAGA0YgAQyCAgCEAAYFhgeMggIAxAAGBYYHjINCAQQABiGAxiABBiKBTINCAUQABiGAxiABBiKBTIJCAYQIRgKGKABMgkIBxAhGAoYoAHSAQkxOTQzNmowajSoAgCwAgDiAwQYASBf&hl=en-GB&sourceid=chrome-mobile&ie=UTF-8), [Good Kafka Resources](https://www.confluent.io/blog/best-kafka-tutorials-examples-and-learning-resources/), [Apache Flink Docs](https://nightlies.apache.org/flink/flink-docs-stable/) & [Apache Flink Optimization Techniques](https://shopify.engineering/optimizing-apache-flink-applications-tips))
+23) [Practical Data Migration](https://www.amazon.in/Practical-Data-Migration-Johny-Morris/dp/1780175140/ref=mp_s_a_1_1?crid=JAD4HGGPQ2BY&dib=eyJ2IjoiMSJ9.cTQo27VSpM8NN46ZhtmzEO_QAM_sCApYPZhtSIWupPetn55mnbPlO-7einvv8-iq0N2R2Ct17ouXabu6z37uL5FyINZ8q2gK6uvHplyl2BnXPnI0lshj0mPULmwJ7leCkzNm4akwh3VvVtSLijPdDleZkz_bREP0qWoEaEK0hjomzLM_7rwj_0bLiki8WsjYqrEICkpAYEvsbTVoEQwe3w.rlwuSio_LOLu2lUJEeowk999-RKovxZQLsepuRn1-N0&dib_tag=se&keywords=practical+data+migration&qid=1709953406&sprefix=practical+data+migration%2Caps%2C249&sr=8-1) & [ECM Migration](https://blogs.opentext.com/the-secret-sauce-of-the-document-migration-process/amp/) - Basically for any type of (huge) Data Migration, should use E(T)L tools(custom-built or COTS) with capabilities like -         
+   a) Good Observability        
+   b) Good Resiliency         
+   c) Validating correctness of source & destination data(after migration), maybe using counts, hashes etc)       
+
+            
+
+          
+    
   
      
 Some Good DataScience/AI/ML/DL(or related) Resources -    
