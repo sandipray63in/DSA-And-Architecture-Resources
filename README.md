@@ -147,11 +147,13 @@ i) Scenario 1([Frequent] “individual“ insert/(soft-)deletes & frequent queri
         Client Commands ->  Commands Storage(Mongo DB Referenced tables) ->* Queries Storage(Mongo DB MVs) ->  Client Queries           
           a) The above solution can deal with [N + 1 problem](https://stackoverflow.com/questions/97197/what-is-the-n1-selects-problem-in-orm-object-relational-mapping) as well.            
           b) Also, one can argue that the same can be achieved using any RDBMS as well but RDBMS instances can mainly scale vertically well(but that's possible only to some extent & has its own limitations) while NoSql DBs(like Mongo DB) can scale horizontally very well as well.          
-          c) “->*“ sequence/step above can be configured to provide real-time updates to MVs when the referenced tables are updated.           
+          c) “->*“ sequence/step above can be configured to provide real-time updates to MVs when the referenced tables are updated.         
+          d) Also, when the reference/master-data tables are more than the main transactional tables, to avoid data redundancy, this approach seems a better solution.       
 ii) Scenario 2([Frequent] “individual“ insert/(soft-)deletes & frequent queries which requires fetch from single table(s) without considering any multiple join) - MVs not needed here but some projections might be needed & the e2e flow can be something like below -          
         Client Commands ->  Commands Storage(Mongo DB Referenced tables) ->  Client Queries           
 iii) Scenario 3([Not-so-frequent/Not-much] “individual“ insert/(soft-)deletes & frequent queries which requires joins across multiple tables) -        
-        Client Commands ->  Commands Storage(Mongo DB Embedded tables) ->  Client Queries            
+        Client Commands ->  Commands Storage(Mongo DB Embedded tables) ->  Client Queries       
+        The disadvantage of the above approach is that data gets redundant/duplicated across json docs since basically its de-normalized model(specific to queries).This becomes more of a problem when reference/master-data tables are way more than the actu al transactional tables.        
 By “individual“ insert/(soft-)deletes above it means that parent child relation based tables where parent & children needs to be inserted/(soft-)deleted seperately & cannot be done in one-shot together.        
 For more details on the above, refer - [MongoDB Schema Design Best Practices](https://www.mongodb.com/developer/products/mongodb/mongodb-schema-design-best-practices/), [Use a View to Join Two Collections](https://www.mongodb.com/docs/manual/core/views/join-collections-with-view/) & [On-Demand Materialized Views](https://www.mongodb.com/docs/manual/core/materialized-views/)              
 8) [Spatial Databases : A Tour](https://search.worldcat.org/title/spatial-databases-a-tour/oclc/606827618)([a spatial db course by Udemy](https://www.udemy.com/course/introduction-to-spatial-databases-with-postgis-and-qgis/?couponCode=LETSLEARNNOWPP))          
