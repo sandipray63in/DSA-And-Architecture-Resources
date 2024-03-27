@@ -148,7 +148,7 @@ i) Scenario 1([Frequent] “individual“ insert/(soft-)deletes & frequent queri
           a) The above solution can deal with [N + 1 problem](https://stackoverflow.com/questions/97197/what-is-the-n1-selects-problem-in-orm-object-relational-mapping) as well.            
           b) Also, one can argue that the same can be achieved using any RDBMS as well but RDBMS instances can mainly scale vertically well(but that's possible only to some extent & has its own limitations) while NoSql DBs(like Mongo DB) can scale horizontally very well as well.          
           c) “->*“ sequence/step above can be configured to provide real-time updates to MVs when the referenced tables are updated.         
-          d) Also, when the reference/master-data tables are more than the main transactional tables, to avoid data redundancy, this approach seems a better solution.       
+          d) Also, when the reference/master-data tables are more than the main transactional tables, to avoid (mainly reference) data redundancy/duplication, this approach seems a better solution.       
 ii) Scenario 2([Frequent] “individual“ insert/(soft-)deletes & frequent queries which requires fetch from single table(s) without considering any multiple join) - MVs not needed here but some projections might be needed & the e2e flow can be something like below -          
         Client Commands ->  Commands Storage(Mongo DB Referenced tables) ->  Client Queries           
 iii) Scenario 3([Not-so-frequent/Not-much] “individual“ insert/(soft-)deletes & frequent queries which requires joins across multiple tables) -        
