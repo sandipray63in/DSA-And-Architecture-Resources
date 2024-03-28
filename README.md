@@ -144,7 +144,7 @@ For more details on CQRS, refer [CQRS, Task Based UIs, Event Sourcing agh!](http
              
     Using Mongo DB Features for various Scenarios(using CQRS wherever/whenever applicable) -            
 i) Scenario 1([Frequent] “individual“ insert/(soft-)deletes & frequent queries which requires joins across multiple tables) -  The MVs will have the joins(maybe with some projections needed) & the e2e flow can be something like below -          
-        Client Commands ->  Commands Storage(Mongo DB Referenced tables) ->* Queries Storage(Mongo DB MVs) ->  Client Queries           
+        Client Commands ->  Commands Storage(Mongo DB Referenced tables) ->* Queries Storage(Mongo DB MVs {or normal views if MVs not possible for some reason}) ->  Client Queries           
           a) The above solution can deal with [N + 1 problem](https://stackoverflow.com/questions/97197/what-is-the-n1-selects-problem-in-orm-object-relational-mapping) as well.            
           b) Also, one can argue that the same can be achieved using any RDBMS as well but RDBMS instances can mainly scale vertically well(but that's possible only to some extent & has its own limitations) while NoSql DBs(like Mongo DB) can scale horizontally very well as well.          
           c) “->*“ sequence/step above can be configured to provide real-time updates to MVs when the referenced tables are updated.         
